@@ -1,22 +1,7 @@
 # DDNet Leaderboard
 
-Leaderboard system for a 2D speedrunning game: players finish maps and earn points. No live DB access: you fetch a `.sqlite` file once a day and generate a static JSON for the frontend.
+My own, vibe-coded flavor of a DDNet leaderboard. Deployed to **https://gumbatw.github.io/DDNet-LB**.
 
-## First push to GitHub
-
-If the repo is freshly cloned or you re-initialized git, set your identity and push:
-
-```powershell
-cd C:\Users\mmb\Projects\DDNet-LB
-git config user.name "Your Name"
-git config user.email "your.email@example.com"
-git add .
-git commit -m "Initial commit: DDNet leaderboard frontend + backend generator"
-git branch -M main
-git push -u origin main
-```
-
-(Remote `origin` should already point to `https://github.com/GumbaTW/DDNet-LB.git`.)
 
 ## Project layout
 
