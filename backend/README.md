@@ -55,3 +55,13 @@ python generate_leaderboard.py path/to/your.db -o ../frontend/public/leaderboard
 **DDNet schema (already wired in):** The script uses `race` (Map, Name, Server) and `maps` (Map, Points). In DDNet, `race.Server` is the region (GER, USA, …); `maps.Server` is difficulty/category (Brutal, Novice, …), so the join is on `Map` only and we use `MAX(Points)` per map. Player points = sum of those points per distinct map finish; region = server where they have the most points. Use `--top 10000` (or similar) to limit the JSON size for the frontend.
 
 Your ratio query (solo min(time) vs teamrace min(time) per map) is a different metric—useful for “solo vs team” views or map difficulty—and is not used for this leaderboard; the leaderboard uses the `Points` column from the `maps` table.
+
+## Profile data (player category breakdown)
+
+`generate_profiles.py` writes **one small JSON file per player** into an output directory. The frontend fetches only that player’s file when you open their profile, so no large payload and no UI freeze. Run it **after** generating `leaderboard.json` (same player list):
+
+```bash
+python generate_profiles.py data/ddnet.sqlite --players-file ../frontend/public/leaderboard.json -o ../frontend/public/profiles
+```
+
+This creates `frontend/public/profiles/<player>.json` (one per player; filenames are URL-safe encoded names). Deploy the whole `profiles/` folder. If a player’s file is missing, their profile page still works but without the “Maps by category” sections.

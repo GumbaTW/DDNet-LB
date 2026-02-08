@@ -19,7 +19,7 @@ function App() {
     <div className={styles.app}>
       <header className={styles.header}>
         <h1 className={styles.title}>DDNet Leaderboard</h1>
-        <p className={styles.subtitle}>Speedrun rankings · Points & regions</p>
+        <p className={styles.subtitle}>Gumba&apos;s version ❤</p>
       </header>
       <main className={styles.main}>
         <Routes>

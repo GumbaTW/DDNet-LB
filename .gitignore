@@ -6,10 +6,12 @@ frontend/node_modules/
 frontend/dist/
 *.local
 
-# Backend data (SQLite stays local – do not commit)
+# Backend data (SQLite stays local)
 backend/data/*.sqlite
 backend/data/*.db
-# frontend/public/leaderboard.json is committed so the deployed site has real data
+
+# Generated profile JSONs (many files – generate in CI or locally, do not commit)
+frontend/public/profiles/
 
 # Python
 __pycache__/

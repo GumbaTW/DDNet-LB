@@ -1,6 +1,6 @@
 .page {
   width: 100%;
-  max-width: 560px;
+  max-width: 960px;
   margin: 0 auto;
 }
 
@@ -23,7 +23,7 @@
   background: var(--card-bg);
   border: 1px solid var(--border);
   border-radius: 16px;
-  padding: 2rem;
+  padding: 2rem 2.5rem;
   box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.4);
 }
 
@@ -87,4 +87,26 @@
 .error {
   color: var(--muted);
   margin-bottom: 1rem;
+}
+
+.categories {
+  margin-top: 2rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid var(--border);
+}
+
+.categoriesTitle {
+  font-family: 'Outfit', system-ui, sans-serif;
+  font-size: 1.1rem;
+  font-weight: 600;
+  color: var(--text);
+  margin: 0 0 1rem;
+}
+
+.profilesLoading {
+  margin-top: 2rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid var(--border);
+  font-size: 0.9rem;
+  color: var(--muted);
 }

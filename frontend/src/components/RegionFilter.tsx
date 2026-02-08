@@ -13,17 +13,20 @@ export function RegionFilter({ regions, selected, onSelect }: RegionFilterProps)
   const [dropdownOpen, setDropdownOpen] = useState(false)
   const dropdownRef = useRef<HTMLDivElement>(null)
 
-  const priority = regions.filter((r) => PRIORITY_REGIONS.includes(r))
+  const priority = regions
+    .filter((r) => PRIORITY_REGIONS.includes(r))
+    .sort((a, b) => PRIORITY_REGIONS.indexOf(a) - PRIORITY_REGIONS.indexOf(b))
   const other = regions.filter((r) => !PRIORITY_REGIONS.includes(r)).sort()
 
   return (
     <div className={styles.wrapper} role="group" aria-label="Filter by region">
+      <span className={styles.label}>Region:</span>
       <button
         type="button"
         className={`${styles.pill} ${selected === null ? styles.pillActive : ''}`}
         onClick={() => onSelect(null)}
       >
-        All
+        Global
       </button>
       {priority.map((region) => (
         <button
@@ -44,7 +47,7 @@ export function RegionFilter({ regions, selected, onSelect }: RegionFilterProps)
             aria-expanded={dropdownOpen}
             aria-haspopup="listbox"
           >
-            More {dropdownOpen ? '▲' : '▼'}
+            Others {dropdownOpen ? '▲' : '▼'}
           </button>
           {dropdownOpen && (
             <>

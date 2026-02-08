@@ -1,0 +1,9638 @@
+{
+  "Brutal": [
+    {
+      "map": "-JustDoIt-",
+      "points": 24
+    },
+    {
+      "map": "-SKY IVLAND-",
+      "points": 21
+    },
+    {
+      "map": "2 To Tango",
+      "points": 21
+    },
+    {
+      "map": "4Four",
+      "points": 21
+    },
+    {
+      "map": "4s",
+      "points": 30
+    },
+    {
+      "map": "A Strange Dream",
+      "points": 21
+    },
+    {
+      "map": "A World Beyond",
+      "points": 18
+    },
+    {
+      "map": "Aardvark",
+      "points": 18
+    },
+    {
+      "map": "Acidate",
+      "points": 18
+    },
+    {
+      "map": "Adrenaline",
+      "points": 27
+    },
+    {
+      "map": "Adrenaline 2",
+      "points": 27
+    },
+    {
+      "map": "Agony",
+      "points": 27
+    },
+    {
+      "map": "Aim 1.0",
+      "points": 24
+    },
+    {
+      "map": "Aim 10.0",
+      "points": 27
+    },
+    {
+      "map": "Aim 11.0",
+      "points": 27
+    },
+    {
+      "map": "Aim 2.0",
+      "points": 24
+    },
+    {
+      "map": "Aim 3.0",
+      "points": 24
+    },
+    {
+      "map": "Aim 4.0",
+      "points": 24
+    },
+    {
+      "map": "Aim 5.0",
+      "points": 24
+    },
+    {
+      "map": "Aim 6.0",
+      "points": 24
+    },
+    {
+      "map": "Aim 7.0",
+      "points": 24
+    },
+    {
+      "map": "Aim 8.0",
+      "points": 27
+    },
+    {
+      "map": "Aim 9.0",
+      "points": 27
+    },
+    {
+      "map": "Airsky",
+      "points": 30
+    },
+    {
+      "map": "Alive",
+      "points": 18
+    },
+    {
+      "map": "All at the beginning",
+      "points": 21
+    },
+    {
+      "map": "Alone Together 1.0",
+      "points": 24
+    },
+    {
+      "map": "Analyzer",
+      "points": 30
+    },
+    {
+      "map": "Anoix",
+      "points": 27
+    },
+    {
+      "map": "AnotherEra",
+      "points": 24
+    },
+    {
+      "map": "Apathy",
+      "points": 27
+    },
+    {
+      "map": "Apex2",
+      "points": 21
+    },
+    {
+      "map": "Apotheosis",
+      "points": 24
+    },
+    {
+      "map": "Arabic Night",
+      "points": 18
+    },
+    {
+      "map": "Arcadian",
+      "points": 21
+    },
+    {
+      "map": "Arcadian 2",
+      "points": 24
+    },
+    {
+      "map": "Arctic Frost",
+      "points": 30
+    },
+    {
+      "map": "At Night 2",
+      "points": 27
+    },
+    {
+      "map": "At Sundown",
+      "points": 27
+    },
+    {
+      "map": "Atomic",
+      "points": 30
+    },
+    {
+      "map": "Aviate",
+      "points": 21
+    },
+    {
+      "map": "Back in Time",
+      "points": 27
+    },
+    {
+      "map": "Back in the days",
+      "points": 24
+    },
+    {
+      "map": "Back in the days 2",
+      "points": 24
+    },
+    {
+      "map": "Back in the days 3",
+      "points": 24
+    },
+    {
+      "map": "Back in the sky",
+      "points": 30
+    },
+    {
+      "map": "Baguette",
+      "points": 24
+    },
+    {
+      "map": "Bamboozled",
+      "points": 24
+    },
+    {
+      "map": "Barren",
+      "points": 21
+    },
+    {
+      "map": "Behemoth",
+      "points": 30
+    },
+    {
+      "map": "Behind the Darkua",
+      "points": 18
+    },
+    {
+      "map": "Best of Three",
+      "points": 27
+    },
+    {
+      "map": "Between the Heavens",
+      "points": 30
+    },
+    {
+      "map": "Between the Mountains",
+      "points": 18
+    },
+    {
+      "map": "Big Sun",
+      "points": 21
+    },
+    {
+      "map": "Biome Master",
+      "points": 18
+    },
+    {
+      "map": "Bizarre Untold",
+      "points": 27
+    },
+    {
+      "map": "Bl0odDens3",
+      "points": 21
+    },
+    {
+      "map": "Black&White",
+      "points": 24
+    },
+    {
+      "map": "Blood Moon",
+      "points": 27
+    },
+    {
+      "map": "Blue Drag",
+      "points": 21
+    },
+    {
+      "map": "Blue Fox",
+      "points": 24
+    },
+    {
+      "map": "Bollermann",
+      "points": 18
+    },
+    {
+      "map": "Bounce",
+      "points": 27
+    },
+    {
+      "map": "Brassrun",
+      "points": 18
+    },
+    {
+      "map": "Brosty",
+      "points": 24
+    },
+    {
+      "map": "Bumblebee",
+      "points": 18
+    },
+    {
+      "map": "Burger",
+      "points": 21
+    },
+    {
+      "map": "Caldera",
+      "points": 21
+    },
+    {
+      "map": "Caldera 2",
+      "points": 24
+    },
+    {
+      "map": "Cave of Harmony",
+      "points": 18
+    },
+    {
+      "map": "Caverns",
+      "points": 24
+    },
+    {
+      "map": "Cemetery",
+      "points": 18
+    },
+    {
+      "map": "Cerberus",
+      "points": 30
+    },
+    {
+      "map": "Cerulean",
+      "points": 24
+    },
+    {
+      "map": "Childs Play 1",
+      "points": 21
+    },
+    {
+      "map": "ChillDontKill",
+      "points": 24
+    },
+    {
+      "map": "Chinatown",
+      "points": 27
+    },
+    {
+      "map": "ClassicMonkez",
+      "points": 24
+    },
+    {
+      "map": "Cold Jungle",
+      "points": 24
+    },
+    {
+      "map": "Comeback",
+      "points": 18
+    },
+    {
+      "map": "Commandont",
+      "points": 21
+    },
+    {
+      "map": "Complex",
+      "points": 30
+    },
+    {
+      "map": "Cosyris",
+      "points": 24
+    },
+    {
+      "map": "Cryptic",
+      "points": 24
+    },
+    {
+      "map": "Cucumber",
+      "points": 24
+    },
+    {
+      "map": "Cursed Treasure",
+      "points": 21
+    },
+    {
+      "map": "Cya Nerd",
+      "points": 21
+    },
+    {
+      "map": "Damage",
+      "points": 24
+    },
+    {
+      "map": "Danceoff",
+      "points": 24
+    },
+    {
+      "map": "Dark Descent",
+      "points": 27
+    },
+    {
+      "map": "Dark Side",
+      "points": 27
+    },
+    {
+      "map": "Dawn Of The 7th Day",
+      "points": 21
+    },
+    {
+      "map": "Day 'n' Night",
+      "points": 27
+    },
+    {
+      "map": "Death Sentence",
+      "points": 18
+    },
+    {
+      "map": "Death Valley",
+      "points": 21
+    },
+    {
+      "map": "Deep Forest",
+      "points": 18
+    },
+    {
+      "map": "Degard",
+      "points": 21
+    },
+    {
+      "map": "Delirious",
+      "points": 30
+    },
+    {
+      "map": "Desert Wolf",
+      "points": 18
+    },
+    {
+      "map": "Deserted",
+      "points": 27
+    },
+    {
+      "map": "Determination",
+      "points": 18
+    },
+    {
+      "map": "Disco",
+      "points": 24
+    },
+    {
+      "map": "Don't Panic",
+      "points": 24
+    },
+    {
+      "map": "Don't go",
+      "points": 18
+    },
+    {
+      "map": "DoomWorld",
+      "points": 24
+    },
+    {
+      "map": "DoomWorld II",
+      "points": 27
+    },
+    {
+      "map": "Doreos",
+      "points": 18
+    },
+    {
+      "map": "Double Dragin",
+      "points": 24
+    },
+    {
+      "map": "DreamWorld",
+      "points": 18
+    },
+    {
+      "map": "Dry Valley",
+      "points": 27
+    },
+    {
+      "map": "Dynamic",
+      "points": 21
+    },
+    {
+      "map": "Eclipsis",
+      "points": 30
+    },
+    {
+      "map": "Ecstasy",
+      "points": 27
+    },
+    {
+      "map": "Eliteenator",
+      "points": 24
+    },
+    {
+      "map": "Elitist",
+      "points": 24
+    },
+    {
+      "map": "Elumite",
+      "points": 21
+    },
+    {
+      "map": "Enchanted",
+      "points": 21
+    },
+    {
+      "map": "Epic-Fail",
+      "points": 21
+    },
+    {
+      "map": "Epinephrine",
+      "points": 30
+    },
+    {
+      "map": "EscapeTheCave",
+      "points": 18
+    },
+    {
+      "map": "Espace",
+      "points": 24
+    },
+    {
+      "map": "Everdeen",
+      "points": 21
+    },
+    {
+      "map": "Exhale",
+      "points": 30
+    },
+    {
+      "map": "External",
+      "points": 21
+    },
+    {
+      "map": "External 2",
+      "points": 30
+    },
+    {
+      "map": "Fade",
+      "points": 24
+    },
+    {
+      "map": "Failable",
+      "points": 27
+    },
+    {
+      "map": "Falling Star",
+      "points": 18
+    },
+    {
+      "map": "Fanxing",
+      "points": 18
+    },
+    {
+      "map": "Fever",
+      "points": 21
+    },
+    {
+      "map": "Fiasko",
+      "points": 27
+    },
+    {
+      "map": "First Try",
+      "points": 27
+    },
+    {
+      "map": "Flow",
+      "points": 21
+    },
+    {
+      "map": "Flow Fever",
+      "points": 27
+    },
+    {
+      "map": "Fluke",
+      "points": 21
+    },
+    {
+      "map": "Flux",
+      "points": 18
+    },
+    {
+      "map": "Flux 2",
+      "points": 18
+    },
+    {
+      "map": "Fly Around",
+      "points": 21
+    },
+    {
+      "map": "Flying in the Sky",
+      "points": 18
+    },
+    {
+      "map": "Fonders",
+      "points": 18
+    },
+    {
+      "map": "Forest Trip",
+      "points": 21
+    },
+    {
+      "map": "Fox",
+      "points": 18
+    },
+    {
+      "map": "Franky's Adventure",
+      "points": 24
+    },
+    {
+      "map": "Freezeless",
+      "points": 18
+    },
+    {
+      "map": "From Death to Destiny",
+      "points": 21
+    },
+    {
+      "map": "Frozen",
+      "points": 24
+    },
+    {
+      "map": "Fuji",
+      "points": 24
+    },
+    {
+      "map": "Furypleasure",
+      "points": 21
+    },
+    {
+      "map": "GG",
+      "points": 21
+    },
+    {
+      "map": "GalacTees",
+      "points": 24
+    },
+    {
+      "map": "Genereatron",
+      "points": 24
+    },
+    {
+      "map": "Generic Fly",
+      "points": 24
+    },
+    {
+      "map": "Generic Hell 2",
+      "points": 30
+    },
+    {
+      "map": "GenericRush1",
+      "points": 18
+    },
+    {
+      "map": "Generica",
+      "points": 27
+    },
+    {
+      "map": "Genericore 1",
+      "points": 24
+    },
+    {
+      "map": "Genericore 2",
+      "points": 24
+    },
+    {
+      "map": "Genericore 3",
+      "points": 24
+    },
+    {
+      "map": "Genericore 4",
+      "points": 21
+    },
+    {
+      "map": "Genericore 5",
+      "points": 24
+    },
+    {
+      "map": "Genericore 7",
+      "points": 24
+    },
+    {
+      "map": "Gloominescence",
+      "points": 18
+    },
+    {
+      "map": "Gloomy Den",
+      "points": 24
+    },
+    {
+      "map": "Goldfield",
+      "points": 27
+    },
+    {
+      "map": "Goldmoon",
+      "points": 18
+    },
+    {
+      "map": "Goldshire",
+      "points": 24
+    },
+    {
+      "map": "Gone",
+      "points": 27
+    },
+    {
+      "map": "Good Ol' Days",
+      "points": 18
+    },
+    {
+      "map": "Good Ol' Days 2",
+      "points": 18
+    },
+    {
+      "map": "Grandma",
+      "points": 18
+    },
+    {
+      "map": "Grandpa",
+      "points": 18
+    },
+    {
+      "map": "Green Agony",
+      "points": 18
+    },
+    {
+      "map": "Handifly",
+      "points": 30
+    },
+    {
+      "map": "Hardcore 10",
+      "points": 21
+    },
+    {
+      "map": "Hardcore 11",
+      "points": 21
+    },
+    {
+      "map": "Hardcore 12",
+      "points": 21
+    },
+    {
+      "map": "Helena",
+      "points": 18
+    },
+    {
+      "map": "Highlife",
+      "points": 24
+    },
+    {
+      "map": "Hillside",
+      "points": 24
+    },
+    {
+      "map": "Holidays 2",
+      "points": 21
+    },
+    {
+      "map": "Holy Key",
+      "points": 18
+    },
+    {
+      "map": "Hostile",
+      "points": 27
+    },
+    {
+      "map": "Hostile 2",
+      "points": 30
+    },
+    {
+      "map": "Hush",
+      "points": 27
+    },
+    {
+      "map": "Impel Down",
+      "points": 30
+    },
+    {
+      "map": "In Da House",
+      "points": 21
+    },
+    {
+      "map": "Inception",
+      "points": 24
+    },
+    {
+      "map": "Increase",
+      "points": 30
+    },
+    {
+      "map": "Indicud",
+      "points": 21
+    },
+    {
+      "map": "Intense 3.0",
+      "points": 21
+    },
+    {
+      "map": "Intercepter",
+      "points": 18
+    },
+    {
+      "map": "Intermediate",
+      "points": 27
+    },
+    {
+      "map": "Into the Wild",
+      "points": 24
+    },
+    {
+      "map": "Is it Real",
+      "points": 27
+    },
+    {
+      "map": "Jaw'Eld",
+      "points": 24
+    },
+    {
+      "map": "Journey",
+      "points": 21
+    },
+    {
+      "map": "Journey Man",
+      "points": 27
+    },
+    {
+      "map": "Journey Man 2",
+      "points": 27
+    },
+    {
+      "map": "Jungledread",
+      "points": 21
+    },
+    {
+      "map": "Just Pseudo Fly",
+      "points": 30
+    },
+    {
+      "map": "Just Ragequit",
+      "points": 24
+    },
+    {
+      "map": "Just Shitfly",
+      "points": 27
+    },
+    {
+      "map": "Just Triple Fly",
+      "points": 27
+    },
+    {
+      "map": "JustGeneric",
+      "points": 27
+    },
+    {
+      "map": "Kabarda",
+      "points": 21
+    },
+    {
+      "map": "Karaboudjan",
+      "points": 21
+    },
+    {
+      "map": "Karaboudjan 3",
+      "points": 21
+    },
+    {
+      "map": "Kassin",
+      "points": 21
+    },
+    {
+      "map": "Kickout",
+      "points": 24
+    },
+    {
+      "map": "Konepas",
+      "points": 21
+    },
+    {
+      "map": "LazeAround 3",
+      "points": 21
+    },
+    {
+      "map": "Level Asian",
+      "points": 24
+    },
+    {
+      "map": "Lil Jungle",
+      "points": 24
+    },
+    {
+      "map": "Limba",
+      "points": 24
+    },
+    {
+      "map": "Lobster Party",
+      "points": 24
+    },
+    {
+      "map": "Lockdown",
+      "points": 27
+    },
+    {
+      "map": "Logics",
+      "points": 21
+    },
+    {
+      "map": "Lonely Travel",
+      "points": 21
+    },
+    {
+      "map": "Looney [Extreme]",
+      "points": 24
+    },
+    {
+      "map": "Lost Story 2",
+      "points": 21
+    },
+    {
+      "map": "Lotus",
+      "points": 18
+    },
+    {
+      "map": "Lucifer",
+      "points": 21
+    },
+    {
+      "map": "LuckyStrike",
+      "points": 18
+    },
+    {
+      "map": "Luxis",
+      "points": 27
+    },
+    {
+      "map": "M&M",
+      "points": 18
+    },
+    {
+      "map": "Madrigal",
+      "points": 21
+    },
+    {
+      "map": "Mana",
+      "points": 24
+    },
+    {
+      "map": "Medium",
+      "points": 18
+    },
+    {
+      "map": "Memories",
+      "points": 18
+    },
+    {
+      "map": "Milthrid Core",
+      "points": 27
+    },
+    {
+      "map": "Mines of Fear",
+      "points": 21
+    },
+    {
+      "map": "Mirai",
+      "points": 30
+    },
+    {
+      "map": "MonkeyStyle",
+      "points": 24
+    },
+    {
+      "map": "Moonshine",
+      "points": 27
+    },
+    {
+      "map": "Moonstone",
+      "points": 21
+    },
+    {
+      "map": "Morthal",
+      "points": 27
+    },
+    {
+      "map": "Mystic River",
+      "points": 24
+    },
+    {
+      "map": "Mystical Island",
+      "points": 24
+    },
+    {
+      "map": "Nagi",
+      "points": 24
+    },
+    {
+      "map": "Narcissistic",
+      "points": 24
+    },
+    {
+      "map": "Naufrage",
+      "points": 21
+    },
+    {
+      "map": "Naufrage 2",
+      "points": 24
+    },
+    {
+      "map": "Naufrage 3",
+      "points": 24
+    },
+    {
+      "map": "Naufrage 4",
+      "points": 27
+    },
+    {
+      "map": "New World",
+      "points": 24
+    },
+    {
+      "map": "Next LvL",
+      "points": 21
+    },
+    {
+      "map": "Nightly Tandem",
+      "points": 21
+    },
+    {
+      "map": "Nightstar",
+      "points": 24
+    },
+    {
+      "map": "Nightstar 2",
+      "points": 24
+    },
+    {
+      "map": "Nirvana",
+      "points": 18
+    },
+    {
+      "map": "NoMore!",
+      "points": 21
+    },
+    {
+      "map": "NoMore! 2",
+      "points": 21
+    },
+    {
+      "map": "NoMore! 3",
+      "points": 21
+    },
+    {
+      "map": "Nordrhein-Westfalen",
+      "points": 30
+    },
+    {
+      "map": "Nostalgia",
+      "points": 21
+    },
+    {
+      "map": "Not Adrenaline 6",
+      "points": 24
+    },
+    {
+      "map": "Nucl",
+      "points": 18
+    },
+    {
+      "map": "Nyanpasu",
+      "points": 21
+    },
+    {
+      "map": "Offpanic",
+      "points": 18
+    },
+    {
+      "map": "Onyx",
+      "points": 27
+    },
+    {
+      "map": "Out of Castle",
+      "points": 24
+    },
+    {
+      "map": "P2Z_Eclipse",
+      "points": 21
+    },
+    {
+      "map": "Panic Paradise",
+      "points": 24
+    },
+    {
+      "map": "Paralyzed",
+      "points": 24
+    },
+    {
+      "map": "Patterns",
+      "points": 21
+    },
+    {
+      "map": "Pentamine",
+      "points": 27
+    },
+    {
+      "map": "Perfect World",
+      "points": 18
+    },
+    {
+      "map": "Pink Destiny",
+      "points": 24
+    },
+    {
+      "map": "Pink Sky",
+      "points": 18
+    },
+    {
+      "map": "Planet 9",
+      "points": 30
+    },
+    {
+      "map": "Plaza",
+      "points": 18
+    },
+    {
+      "map": "Polarity",
+      "points": 24
+    },
+    {
+      "map": "Potty",
+      "points": 21
+    },
+    {
+      "map": "Punica",
+      "points": 21
+    },
+    {
+      "map": "Puzzle Partners",
+      "points": 24
+    },
+    {
+      "map": "Quantum",
+      "points": 18
+    },
+    {
+      "map": "QuintessenZ",
+      "points": 24
+    },
+    {
+      "map": "Radiation",
+      "points": 21
+    },
+    {
+      "map": "Reason",
+      "points": 27
+    },
+    {
+      "map": "Reckless",
+      "points": 21
+    },
+    {
+      "map": "Redefined",
+      "points": 24
+    },
+    {
+      "map": "Regen",
+      "points": 24
+    },
+    {
+      "map": "Regen 3",
+      "points": 27
+    },
+    {
+      "map": "Relentless",
+      "points": 30
+    },
+    {
+      "map": "Rema",
+      "points": 18
+    },
+    {
+      "map": "Revival",
+      "points": 24
+    },
+    {
+      "map": "Road to Rank 1",
+      "points": 24
+    },
+    {
+      "map": "Roaming",
+      "points": 24
+    },
+    {
+      "map": "Rockstar",
+      "points": 27
+    },
+    {
+      "map": "Rocky Horror Fly",
+      "points": 27
+    },
+    {
+      "map": "Rogue World",
+      "points": 18
+    },
+    {
+      "map": "Ruin",
+      "points": 21
+    },
+    {
+      "map": "Run into the light",
+      "points": 24
+    },
+    {
+      "map": "Runaway",
+      "points": 24
+    },
+    {
+      "map": "SKYBOW",
+      "points": 30
+    },
+    {
+      "map": "Sand Dune",
+      "points": 24
+    },
+    {
+      "map": "Scabrous",
+      "points": 21
+    },
+    {
+      "map": "Sequite",
+      "points": 24
+    },
+    {
+      "map": "Shock Value",
+      "points": 21
+    },
+    {
+      "map": "Simple Down",
+      "points": 27
+    },
+    {
+      "map": "Simple Down 2",
+      "points": 27
+    },
+    {
+      "map": "Simple Down 3",
+      "points": 27
+    },
+    {
+      "map": "SimpleBLocks",
+      "points": 21
+    },
+    {
+      "map": "Skave",
+      "points": 18
+    },
+    {
+      "map": "Skill Rises",
+      "points": 27
+    },
+    {
+      "map": "Sky Ride",
+      "points": 24
+    },
+    {
+      "map": "SkyLand",
+      "points": 18
+    },
+    {
+      "map": "SkyLand2",
+      "points": 21
+    },
+    {
+      "map": "Skywalk",
+      "points": 24
+    },
+    {
+      "map": "Sleepy",
+      "points": 21
+    },
+    {
+      "map": "Sleepy 2",
+      "points": 24
+    },
+    {
+      "map": "Soap",
+      "points": 27
+    },
+    {
+      "map": "SolarStrike",
+      "points": 24
+    },
+    {
+      "map": "Something",
+      "points": 24
+    },
+    {
+      "map": "Sooth",
+      "points": 30
+    },
+    {
+      "map": "Space & Time",
+      "points": 21
+    },
+    {
+      "map": "Space & Time 2",
+      "points": 21
+    },
+    {
+      "map": "Space Rate",
+      "points": 30
+    },
+    {
+      "map": "Spacetic",
+      "points": 18
+    },
+    {
+      "map": "Speedfly",
+      "points": 30
+    },
+    {
+      "map": "Sperance",
+      "points": 27
+    },
+    {
+      "map": "Springlobe",
+      "points": 24
+    },
+    {
+      "map": "Springlobe 2",
+      "points": 27
+    },
+    {
+      "map": "Stay Alive",
+      "points": 30
+    },
+    {
+      "map": "Stoned",
+      "points": 18
+    },
+    {
+      "map": "Stoned 2",
+      "points": 18
+    },
+    {
+      "map": "Stones",
+      "points": 21
+    },
+    {
+      "map": "Stormwind",
+      "points": 27
+    },
+    {
+      "map": "Strategic Paraplegic",
+      "points": 24
+    },
+    {
+      "map": "Stronghold",
+      "points": 18
+    },
+    {
+      "map": "Stronghold 2",
+      "points": 21
+    },
+    {
+      "map": "Stronghold 3",
+      "points": 24
+    },
+    {
+      "map": "Stronghold 4 [Final]",
+      "points": 27
+    },
+    {
+      "map": "Supernova",
+      "points": 18
+    },
+    {
+      "map": "Synesthesia",
+      "points": 27
+    },
+    {
+      "map": "Take me to Desert",
+      "points": 24
+    },
+    {
+      "map": "Tatooine",
+      "points": 30
+    },
+    {
+      "map": "Teeish Mine",
+      "points": 27
+    },
+    {
+      "map": "Teestroyer",
+      "points": 27
+    },
+    {
+      "map": "Teetrader",
+      "points": 21
+    },
+    {
+      "map": "TelEdge",
+      "points": 27
+    },
+    {
+      "map": "Tenebris",
+      "points": 24
+    },
+    {
+      "map": "The Cursed Night",
+      "points": 27
+    },
+    {
+      "map": "The Dream",
+      "points": 24
+    },
+    {
+      "map": "The Floor is Lava",
+      "points": 21
+    },
+    {
+      "map": "The Fusion",
+      "points": 27
+    },
+    {
+      "map": "The Joke",
+      "points": 21
+    },
+    {
+      "map": "The Joke 2",
+      "points": 21
+    },
+    {
+      "map": "The Joke 3",
+      "points": 21
+    },
+    {
+      "map": "The Rapture",
+      "points": 30
+    },
+    {
+      "map": "The Sewer",
+      "points": 24
+    },
+    {
+      "map": "The Uns",
+      "points": 18
+    },
+    {
+      "map": "The Way to the Hell",
+      "points": 24
+    },
+    {
+      "map": "ThereIsNoTruth",
+      "points": 18
+    },
+    {
+      "map": "Threesome",
+      "points": 24
+    },
+    {
+      "map": "Time Eater",
+      "points": 21
+    },
+    {
+      "map": "Time to Switch",
+      "points": 21
+    },
+    {
+      "map": "TinselTee",
+      "points": 18
+    },
+    {
+      "map": "To the moon",
+      "points": 24
+    },
+    {
+      "map": "Ton 2",
+      "points": 27
+    },
+    {
+      "map": "Tough",
+      "points": 21
+    },
+    {
+      "map": "Triplicitee",
+      "points": 24
+    },
+    {
+      "map": "Tropical Island",
+      "points": 24
+    },
+    {
+      "map": "TryHard",
+      "points": 27
+    },
+    {
+      "map": "TryThis",
+      "points": 24
+    },
+    {
+      "map": "Tvyn",
+      "points": 18
+    },
+    {
+      "map": "Ultranova",
+      "points": 27
+    },
+    {
+      "map": "Umbrella",
+      "points": 24
+    },
+    {
+      "map": "Unbalanced",
+      "points": 21
+    },
+    {
+      "map": "Unbalanced 2",
+      "points": 27
+    },
+    {
+      "map": "Uncharted",
+      "points": 24
+    },
+    {
+      "map": "Under Pressure",
+      "points": 24
+    },
+    {
+      "map": "Underground",
+      "points": 18
+    },
+    {
+      "map": "Undisclosed",
+      "points": 21
+    },
+    {
+      "map": "Unisex",
+      "points": 30
+    },
+    {
+      "map": "Uzmutulunculunbé",
+      "points": 24
+    },
+    {
+      "map": "Valley",
+      "points": 27
+    },
+    {
+      "map": "Valley 2",
+      "points": 24
+    },
+    {
+      "map": "Venture",
+      "points": 18
+    },
+    {
+      "map": "Venture 2",
+      "points": 27
+    },
+    {
+      "map": "Wailand",
+      "points": 18
+    },
+    {
+      "map": "Waldeinsamkeit",
+      "points": 21
+    },
+    {
+      "map": "Wasteland",
+      "points": 21
+    },
+    {
+      "map": "Wave",
+      "points": 24
+    },
+    {
+      "map": "Way to the moon",
+      "points": 27
+    },
+    {
+      "map": "Winter Is Coming",
+      "points": 27
+    },
+    {
+      "map": "Winterfall",
+      "points": 24
+    },
+    {
+      "map": "Wonderfully",
+      "points": 27
+    },
+    {
+      "map": "Wonderfully 3",
+      "points": 27
+    },
+    {
+      "map": "Wonderfully2",
+      "points": 27
+    },
+    {
+      "map": "WoodDivision V",
+      "points": 27
+    },
+    {
+      "map": "Wour Forlds",
+      "points": 27
+    },
+    {
+      "map": "Yeyou 5",
+      "points": 21
+    },
+    {
+      "map": "Yeyou 6",
+      "points": 21
+    },
+    {
+      "map": "Yoko 1.1",
+      "points": 21
+    },
+    {
+      "map": "Yoko 2.1",
+      "points": 18
+    },
+    {
+      "map": "Yoko 3.1",
+      "points": 18
+    },
+    {
+      "map": "Yoko 4.1",
+      "points": 27
+    },
+    {
+      "map": "Yumizo",
+      "points": 24
+    },
+    {
+      "map": "Yun Gu 2",
+      "points": 21
+    },
+    {
+      "map": "Yun Gu 3",
+      "points": 27
+    },
+    {
+      "map": "Zenith",
+      "points": 18
+    },
+    {
+      "map": "Zoe",
+      "points": 18
+    },
+    {
+      "map": "aled",
+      "points": 24
+    },
+    {
+      "map": "aled II",
+      "points": 27
+    },
+    {
+      "map": "allthewayup",
+      "points": 21
+    },
+    {
+      "map": "asterism",
+      "points": 27
+    },
+    {
+      "map": "blur",
+      "points": 18
+    },
+    {
+      "map": "brainduck",
+      "points": 21
+    },
+    {
+      "map": "brainduck2",
+      "points": 24
+    },
+    {
+      "map": "chiseled",
+      "points": 18
+    },
+    {
+      "map": "cimininxi",
+      "points": 21
+    },
+    {
+      "map": "claret-blue",
+      "points": 18
+    },
+    {
+      "map": "complic",
+      "points": 21
+    },
+    {
+      "map": "dalbychsipivo",
+      "points": 21
+    },
+    {
+      "map": "leopold",
+      "points": 18
+    },
+    {
+      "map": "likeOldschool",
+      "points": 30
+    },
+    {
+      "map": "lost_castle",
+      "points": 18
+    },
+    {
+      "map": "milk",
+      "points": 18
+    },
+    {
+      "map": "milkyway",
+      "points": 24
+    },
+    {
+      "map": "mmips",
+      "points": 18
+    },
+    {
+      "map": "nemesis",
+      "points": 24
+    },
+    {
+      "map": "nullptr",
+      "points": 18
+    },
+    {
+      "map": "octotorp",
+      "points": 18
+    },
+    {
+      "map": "superway",
+      "points": 24
+    },
+    {
+      "map": "ttgtgttg",
+      "points": 18
+    },
+    {
+      "map": "w3na",
+      "points": 24
+    },
+    {
+      "map": "whitehell",
+      "points": 30
+    }
+  ],
+  "DDmaX.Easy": [
+    {
+      "map": "Back to the Roots 1",
+      "points": 4
+    },
+    {
+      "map": "Back to the Roots 2",
+      "points": 4
+    },
+    {
+      "map": "Bumba",
+      "points": 4
+    },
+    {
+      "map": "Core",
+      "points": 4
+    },
+    {
+      "map": "Drain-Age",
+      "points": 4
+    },
+    {
+      "map": "EasyCore",
+      "points": 4
+    },
+    {
+      "map": "Everest",
+      "points": 4
+    },
+    {
+      "map": "Fairy Land",
+      "points": 8
+    },
+    {
+      "map": "GlassBox 10",
+      "points": 4
+    },
+    {
+      "map": "GlassBox 9",
+      "points": 4
+    },
+    {
+      "map": "Grey 1",
+      "points": 4
+    },
+    {
+      "map": "Grey 2",
+      "points": 4
+    },
+    {
+      "map": "Grey 3",
+      "points": 4
+    },
+    {
+      "map": "Grey 4",
+      "points": 4
+    },
+    {
+      "map": "HappyValenTees",
+      "points": 8
+    },
+    {
+      "map": "Hop",
+      "points": 4
+    },
+    {
+      "map": "JetPack",
+      "points": 4
+    },
+    {
+      "map": "Pathway",
+      "points": 4
+    },
+    {
+      "map": "Pathway 2",
+      "points": 4
+    },
+    {
+      "map": "Pathway 3",
+      "points": 4
+    },
+    {
+      "map": "Pathway 4",
+      "points": 4
+    },
+    {
+      "map": "Peaks",
+      "points": 8
+    },
+    {
+      "map": "R.I.P",
+      "points": 8
+    },
+    {
+      "map": "Red & Orange",
+      "points": 4
+    },
+    {
+      "map": "Retro 0",
+      "points": 4
+    },
+    {
+      "map": "Retro 1",
+      "points": 4
+    },
+    {
+      "map": "Strike",
+      "points": 4
+    },
+    {
+      "map": "Sunsetcave",
+      "points": 4
+    },
+    {
+      "map": "Want_a_Cookie",
+      "points": 8
+    },
+    {
+      "map": "Zip",
+      "points": 4
+    },
+    {
+      "map": "vitaminC",
+      "points": 4
+    }
+  ],
+  "DDmaX.Next": [
+    {
+      "map": ".Background'",
+      "points": 12
+    },
+    {
+      "map": "0 KBeeeR S - 1",
+      "points": 8
+    },
+    {
+      "map": "0 KBeeeR S - 2",
+      "points": 8
+    },
+    {
+      "map": "007 - 1",
+      "points": 8
+    },
+    {
+      "map": "007 - 2",
+      "points": 8
+    },
+    {
+      "map": "2Long",
+      "points": 12
+    },
+    {
+      "map": "3way",
+      "points": 8
+    },
+    {
+      "map": "42",
+      "points": 8
+    },
+    {
+      "map": "4luvz",
+      "points": 8
+    },
+    {
+      "map": "84",
+      "points": 8
+    },
+    {
+      "map": "ATLAS",
+      "points": 8
+    },
+    {
+      "map": "Angry",
+      "points": 12
+    },
+    {
+      "map": "Angry 2",
+      "points": 12
+    },
+    {
+      "map": "Around the Globe",
+      "points": 16
+    },
+    {
+      "map": "Autumn",
+      "points": 8
+    },
+    {
+      "map": "Away",
+      "points": 8
+    },
+    {
+      "map": "Axom",
+      "points": 8
+    },
+    {
+      "map": "BSWL",
+      "points": 8
+    },
+    {
+      "map": "Bercy",
+      "points": 12
+    },
+    {
+      "map": "Bixnet",
+      "points": 8
+    },
+    {
+      "map": "Black",
+      "points": 12
+    },
+    {
+      "map": "Black Jungle",
+      "points": 8
+    },
+    {
+      "map": "Blue & Yellow",
+      "points": 8
+    },
+    {
+      "map": "Blue Adventures 1",
+      "points": 4
+    },
+    {
+      "map": "Blue Sky",
+      "points": 8
+    },
+    {
+      "map": "BlueRift",
+      "points": 12
+    },
+    {
+      "map": "BoX",
+      "points": 8
+    },
+    {
+      "map": "Brick World",
+      "points": 8
+    },
+    {
+      "map": "Brick World 2",
+      "points": 8
+    },
+    {
+      "map": "CCrush",
+      "points": 8
+    },
+    {
+      "map": "Castle of Glass",
+      "points": 8
+    },
+    {
+      "map": "Caveman",
+      "points": 12
+    },
+    {
+      "map": "Chaos Factory",
+      "points": 8
+    },
+    {
+      "map": "Chaos Factory 2",
+      "points": 8
+    },
+    {
+      "map": "Cigarette",
+      "points": 12
+    },
+    {
+      "map": "Cloudy",
+      "points": 12
+    },
+    {
+      "map": "Colors V2",
+      "points": 12
+    },
+    {
+      "map": "Creepeez",
+      "points": 12
+    },
+    {
+      "map": "CreeperFace",
+      "points": 12
+    },
+    {
+      "map": "DARKness 1",
+      "points": 8
+    },
+    {
+      "map": "DARKness 2",
+      "points": 12
+    },
+    {
+      "map": "DaFuQ",
+      "points": 8
+    },
+    {
+      "map": "DaMap",
+      "points": 8
+    },
+    {
+      "map": "DaMap 2",
+      "points": 8
+    },
+    {
+      "map": "Dark Rainbow",
+      "points": 8
+    },
+    {
+      "map": "DeadEnd",
+      "points": 16
+    },
+    {
+      "map": "Deeve1",
+      "points": 8
+    },
+    {
+      "map": "Derpy 1",
+      "points": 8
+    },
+    {
+      "map": "Desert Pain",
+      "points": 8
+    },
+    {
+      "map": "Desolation",
+      "points": 16
+    },
+    {
+      "map": "Diamond",
+      "points": 12
+    },
+    {
+      "map": "Divinum V2",
+      "points": 16
+    },
+    {
+      "map": "Drag-House",
+      "points": 8
+    },
+    {
+      "map": "Drag-House2",
+      "points": 8
+    },
+    {
+      "map": "Dream 1 V2",
+      "points": 8
+    },
+    {
+      "map": "Dream 2",
+      "points": 8
+    },
+    {
+      "map": "Drunk",
+      "points": 12
+    },
+    {
+      "map": "Equestria Girls",
+      "points": 8
+    },
+    {
+      "map": "Evo 1",
+      "points": 12
+    },
+    {
+      "map": "Experiment",
+      "points": 8
+    },
+    {
+      "map": "FWYS 1",
+      "points": 12
+    },
+    {
+      "map": "FWYS 2",
+      "points": 12
+    },
+    {
+      "map": "FWYS 3",
+      "points": 12
+    },
+    {
+      "map": "FWYS 4",
+      "points": 12
+    },
+    {
+      "map": "FWYS 5",
+      "points": 12
+    },
+    {
+      "map": "Fall In Love",
+      "points": 4
+    },
+    {
+      "map": "Feeling",
+      "points": 8
+    },
+    {
+      "map": "Finito",
+      "points": 16
+    },
+    {
+      "map": "Fly-4-2",
+      "points": 12
+    },
+    {
+      "map": "Forest",
+      "points": 12
+    },
+    {
+      "map": "Frats 1",
+      "points": 12
+    },
+    {
+      "map": "Frats 2",
+      "points": 12
+    },
+    {
+      "map": "Frats 3",
+      "points": 12
+    },
+    {
+      "map": "Frats 4",
+      "points": 12
+    },
+    {
+      "map": "Frats 5",
+      "points": 12
+    },
+    {
+      "map": "FreeZe",
+      "points": 8
+    },
+    {
+      "map": "Frostbite",
+      "points": 12
+    },
+    {
+      "map": "Full Moon",
+      "points": 12
+    },
+    {
+      "map": "GTF 1",
+      "points": 8
+    },
+    {
+      "map": "Genesis",
+      "points": 8
+    },
+    {
+      "map": "Genesis-2",
+      "points": 8
+    },
+    {
+      "map": "Get The Gifts",
+      "points": 8
+    },
+    {
+      "map": "Google",
+      "points": 12
+    },
+    {
+      "map": "Green",
+      "points": 12
+    },
+    {
+      "map": "GreenDream",
+      "points": 12
+    },
+    {
+      "map": "Halloween",
+      "points": 16
+    },
+    {
+      "map": "HappyEaster",
+      "points": 16
+    },
+    {
+      "map": "Hell 1 V2",
+      "points": 12
+    },
+    {
+      "map": "HellGate 1",
+      "points": 8
+    },
+    {
+      "map": "HellGate 1.5",
+      "points": 8
+    },
+    {
+      "map": "HellGate 2",
+      "points": 8
+    },
+    {
+      "map": "HellGate 2.5",
+      "points": 8
+    },
+    {
+      "map": "HellGate 3",
+      "points": 8
+    },
+    {
+      "map": "HellGate 4",
+      "points": 8
+    },
+    {
+      "map": "HellGate 5",
+      "points": 12
+    },
+    {
+      "map": "Heroic",
+      "points": 8
+    },
+    {
+      "map": "HeyYa",
+      "points": 8
+    },
+    {
+      "map": "Hook Fever",
+      "points": 12
+    },
+    {
+      "map": "Hope",
+      "points": 16
+    },
+    {
+      "map": "Hope 2",
+      "points": 16
+    },
+    {
+      "map": "Ice",
+      "points": 16
+    },
+    {
+      "map": "Icy Morning",
+      "points": 12
+    },
+    {
+      "map": "Icy Mountain",
+      "points": 8
+    },
+    {
+      "map": "Impulse_01",
+      "points": 4
+    },
+    {
+      "map": "Impulse_02",
+      "points": 4
+    },
+    {
+      "map": "Impulse_03",
+      "points": 4
+    },
+    {
+      "map": "JLI 1",
+      "points": 8
+    },
+    {
+      "map": "Jungle",
+      "points": 8
+    },
+    {
+      "map": "JustMap",
+      "points": 12
+    },
+    {
+      "map": "KitKat 1",
+      "points": 8
+    },
+    {
+      "map": "KitKat 2",
+      "points": 8
+    },
+    {
+      "map": "LATOM",
+      "points": 16
+    },
+    {
+      "map": "Lime",
+      "points": 8
+    },
+    {
+      "map": "Lost Story",
+      "points": 12
+    },
+    {
+      "map": "Love 0.6",
+      "points": 8
+    },
+    {
+      "map": "MCPV",
+      "points": 12
+    },
+    {
+      "map": "Maroon",
+      "points": 8
+    },
+    {
+      "map": "Maximum",
+      "points": 12
+    },
+    {
+      "map": "Michler",
+      "points": 12
+    },
+    {
+      "map": "Michler 2",
+      "points": 12
+    },
+    {
+      "map": "Moon of the Jungle",
+      "points": 12
+    },
+    {
+      "map": "Myth",
+      "points": 12
+    },
+    {
+      "map": "Next",
+      "points": 16
+    },
+    {
+      "map": "Next 2",
+      "points": 16
+    },
+    {
+      "map": "Pale",
+      "points": 4
+    },
+    {
+      "map": "Pale 2",
+      "points": 4
+    },
+    {
+      "map": "Pandaland",
+      "points": 8
+    },
+    {
+      "map": "Pandora",
+      "points": 8
+    },
+    {
+      "map": "Purple Panic",
+      "points": 8
+    },
+    {
+      "map": "Purple Panic 2",
+      "points": 8
+    },
+    {
+      "map": "R2D2",
+      "points": 8
+    },
+    {
+      "map": "RageOne",
+      "points": 8
+    },
+    {
+      "map": "Rainboom",
+      "points": 8
+    },
+    {
+      "map": "Reach Pluto",
+      "points": 12
+    },
+    {
+      "map": "Regret",
+      "points": 12
+    },
+    {
+      "map": "Revolution",
+      "points": 8
+    },
+    {
+      "map": "RockBlock 1",
+      "points": 8
+    },
+    {
+      "map": "Rovo",
+      "points": 12
+    },
+    {
+      "map": "S-Race 1",
+      "points": 8
+    },
+    {
+      "map": "S-Race 2",
+      "points": 12
+    },
+    {
+      "map": "Shaxx",
+      "points": 8
+    },
+    {
+      "map": "SilentNight",
+      "points": 8
+    },
+    {
+      "map": "Sky line",
+      "points": 8
+    },
+    {
+      "map": "Slim",
+      "points": 12
+    },
+    {
+      "map": "Snowy Sakura I",
+      "points": 12
+    },
+    {
+      "map": "Snowzz",
+      "points": 12
+    },
+    {
+      "map": "Spectrus I",
+      "points": 4
+    },
+    {
+      "map": "SpongeBob 1",
+      "points": 8
+    },
+    {
+      "map": "SpongeBob 2",
+      "points": 8
+    },
+    {
+      "map": "Stamina",
+      "points": 12
+    },
+    {
+      "map": "Standby",
+      "points": 8
+    },
+    {
+      "map": "Steff I beginning",
+      "points": 4
+    },
+    {
+      "map": "Steff III peace",
+      "points": 4
+    },
+    {
+      "map": "StormzZ",
+      "points": 12
+    },
+    {
+      "map": "The Captive Mind",
+      "points": 12
+    },
+    {
+      "map": "TheVoiD",
+      "points": 8
+    },
+    {
+      "map": "Totoro",
+      "points": 12
+    },
+    {
+      "map": "Toxic",
+      "points": 12
+    },
+    {
+      "map": "Tribute 1",
+      "points": 12
+    },
+    {
+      "map": "Tribute 2",
+      "points": 12
+    },
+    {
+      "map": "TsinmaS",
+      "points": 8
+    },
+    {
+      "map": "Tylost",
+      "points": 12
+    },
+    {
+      "map": "Tylost 2",
+      "points": 12
+    },
+    {
+      "map": "Underworld",
+      "points": 8
+    },
+    {
+      "map": "VeryLow1",
+      "points": 16
+    },
+    {
+      "map": "VeryLow2",
+      "points": 16
+    },
+    {
+      "map": "Violet",
+      "points": 12
+    },
+    {
+      "map": "Winter Dream",
+      "points": 8
+    },
+    {
+      "map": "WinterMine",
+      "points": 12
+    },
+    {
+      "map": "X-Cross",
+      "points": 8
+    },
+    {
+      "map": "Xeno Race #1",
+      "points": 12
+    },
+    {
+      "map": "Yin&Yang",
+      "points": 8
+    },
+    {
+      "map": "black-mountains",
+      "points": 8
+    },
+    {
+      "map": "black-mountains 2",
+      "points": 12
+    },
+    {
+      "map": "brainbase",
+      "points": 8
+    },
+    {
+      "map": "double up",
+      "points": 8
+    },
+    {
+      "map": "illusion",
+      "points": 16
+    },
+    {
+      "map": "lemonland",
+      "points": 16
+    },
+    {
+      "map": "lovely me",
+      "points": 12
+    },
+    {
+      "map": "lovely me2",
+      "points": 12
+    },
+    {
+      "map": "mario(=D)",
+      "points": 8
+    },
+    {
+      "map": "o_O",
+      "points": 8
+    },
+    {
+      "map": "pepsi",
+      "points": 12
+    },
+    {
+      "map": "run_the_cube",
+      "points": 4
+    },
+    {
+      "map": "secreT",
+      "points": 8
+    },
+    {
+      "map": "skynet1",
+      "points": 4
+    },
+    {
+      "map": "skynet10",
+      "points": 8
+    },
+    {
+      "map": "skynet2",
+      "points": 4
+    },
+    {
+      "map": "skynet3",
+      "points": 4
+    },
+    {
+      "map": "skynet4",
+      "points": 4
+    },
+    {
+      "map": "skynet5",
+      "points": 4
+    },
+    {
+      "map": "skynet6",
+      "points": 4
+    },
+    {
+      "map": "skynet7",
+      "points": 4
+    },
+    {
+      "map": "skynet8",
+      "points": 4
+    },
+    {
+      "map": "skynet9",
+      "points": 4
+    },
+    {
+      "map": "slow",
+      "points": 8
+    },
+    {
+      "map": "smile",
+      "points": 4
+    },
+    {
+      "map": "valentees",
+      "points": 8
+    }
+  ],
+  "DDmaX.Nut": [
+    {
+      "map": "NUT Hardcore UNITED",
+      "points": 12
+    },
+    {
+      "map": "NUT_hardcore_bestof",
+      "points": 12
+    },
+    {
+      "map": "NUT_hardcore_race1",
+      "points": 12
+    },
+    {
+      "map": "NUT_hardcore_race2",
+      "points": 12
+    },
+    {
+      "map": "NUT_hardcore_race3",
+      "points": 8
+    },
+    {
+      "map": "NUT_hardcore_race4",
+      "points": 8
+    },
+    {
+      "map": "NUT_hardcore_race5",
+      "points": 12
+    },
+    {
+      "map": "NUT_hardcore_race6",
+      "points": 12
+    },
+    {
+      "map": "NUT_race1",
+      "points": 8
+    },
+    {
+      "map": "NUT_race2",
+      "points": 8
+    },
+    {
+      "map": "NUT_race3",
+      "points": 8
+    },
+    {
+      "map": "NUT_race4",
+      "points": 8
+    },
+    {
+      "map": "NUT_race5",
+      "points": 8
+    },
+    {
+      "map": "NUT_race6",
+      "points": 12
+    },
+    {
+      "map": "NUT_race7",
+      "points": 8
+    },
+    {
+      "map": "NUT_race8",
+      "points": 8
+    },
+    {
+      "map": "NUT_race9",
+      "points": 8
+    },
+    {
+      "map": "NUT_short_race1",
+      "points": 4
+    },
+    {
+      "map": "NUT_short_race2",
+      "points": 4
+    },
+    {
+      "map": "NUT_short_race3",
+      "points": 0
+    },
+    {
+      "map": "NUT_short_race4",
+      "points": 4
+    },
+    {
+      "map": "NUT_short_race5",
+      "points": 4
+    },
+    {
+      "map": "NUT_short_race6",
+      "points": 0
+    },
+    {
+      "map": "NUT_short_race7",
+      "points": 0
+    }
+  ],
+  "DDmaX.Pro": [
+    {
+      "map": "#MegaRosenkohl",
+      "points": 20
+    },
+    {
+      "map": "-Ikarus-",
+      "points": 16
+    },
+    {
+      "map": "21",
+      "points": 16
+    },
+    {
+      "map": "Adrenaline 3",
+      "points": 20
+    },
+    {
+      "map": "Alpaga",
+      "points": 12
+    },
+    {
+      "map": "Ambrosia",
+      "points": 16
+    },
+    {
+      "map": "Arcade",
+      "points": 12
+    },
+    {
+      "map": "Arcade 2",
+      "points": 12
+    },
+    {
+      "map": "AreaOfEffect",
+      "points": 16
+    },
+    {
+      "map": "At Night",
+      "points": 20
+    },
+    {
+      "map": "Beachmap",
+      "points": 16
+    },
+    {
+      "map": "Besbex",
+      "points": 16
+    },
+    {
+      "map": "Best Of",
+      "points": 20
+    },
+    {
+      "map": "Black & Red",
+      "points": 16
+    },
+    {
+      "map": "Black_City",
+      "points": 20
+    },
+    {
+      "map": "Blizzard!",
+      "points": 20
+    },
+    {
+      "map": "Blue Hell",
+      "points": 20
+    },
+    {
+      "map": "BrokenBlack-1",
+      "points": 20
+    },
+    {
+      "map": "Brownie",
+      "points": 16
+    },
+    {
+      "map": "Chaos 1",
+      "points": 16
+    },
+    {
+      "map": "Chaos 2",
+      "points": 16
+    },
+    {
+      "map": "Chaos 3",
+      "points": 16
+    },
+    {
+      "map": "Chaos 4",
+      "points": 16
+    },
+    {
+      "map": "Cloud Nine",
+      "points": 16
+    },
+    {
+      "map": "Cocaine",
+      "points": 20
+    },
+    {
+      "map": "Confusion",
+      "points": 20
+    },
+    {
+      "map": "CrazyHOOD",
+      "points": 16
+    },
+    {
+      "map": "Creative",
+      "points": 16
+    },
+    {
+      "map": "Curse",
+      "points": 16
+    },
+    {
+      "map": "DawnOfDust",
+      "points": 16
+    },
+    {
+      "map": "Day",
+      "points": 20
+    },
+    {
+      "map": "DayWalker",
+      "points": 16
+    },
+    {
+      "map": "Dead Island",
+      "points": 12
+    },
+    {
+      "map": "Deadline 1",
+      "points": 16
+    },
+    {
+      "map": "Deadline 2",
+      "points": 16
+    },
+    {
+      "map": "DeathClaw",
+      "points": 20
+    },
+    {
+      "map": "Dels",
+      "points": 12
+    },
+    {
+      "map": "Dels 2",
+      "points": 16
+    },
+    {
+      "map": "Dels 3",
+      "points": 16
+    },
+    {
+      "map": "Deria",
+      "points": 16
+    },
+    {
+      "map": "Difficult 1.1",
+      "points": 12
+    },
+    {
+      "map": "Difficult 1.2",
+      "points": 16
+    },
+    {
+      "map": "Difficult 1.3",
+      "points": 20
+    },
+    {
+      "map": "Difficult 2.1",
+      "points": 12
+    },
+    {
+      "map": "Difficult 2.2",
+      "points": 16
+    },
+    {
+      "map": "Difficult 2.3",
+      "points": 20
+    },
+    {
+      "map": "Divided",
+      "points": 12
+    },
+    {
+      "map": "DoT",
+      "points": 16
+    },
+    {
+      "map": "Dragonscale",
+      "points": 16
+    },
+    {
+      "map": "Dreadful",
+      "points": 16
+    },
+    {
+      "map": "Easy Way",
+      "points": 16
+    },
+    {
+      "map": "Eclipse",
+      "points": 20
+    },
+    {
+      "map": "Elo-Hell",
+      "points": 16
+    },
+    {
+      "map": "Energie",
+      "points": 16
+    },
+    {
+      "map": "Equalize!",
+      "points": 12
+    },
+    {
+      "map": "Executive",
+      "points": 20
+    },
+    {
+      "map": "Explosive",
+      "points": 12
+    },
+    {
+      "map": "Fantabob",
+      "points": 16
+    },
+    {
+      "map": "Fly to the Moon",
+      "points": 12
+    },
+    {
+      "map": "Forever",
+      "points": 20
+    },
+    {
+      "map": "Four Gates",
+      "points": 16
+    },
+    {
+      "map": "Gold Rush",
+      "points": 20
+    },
+    {
+      "map": "Hard Way 1.0",
+      "points": 16
+    },
+    {
+      "map": "HardcoreZ",
+      "points": 20
+    },
+    {
+      "map": "HearTbeaT",
+      "points": 20
+    },
+    {
+      "map": "HearTcross",
+      "points": 20
+    },
+    {
+      "map": "Hell Fly",
+      "points": 16
+    },
+    {
+      "map": "Imagination3",
+      "points": 20
+    },
+    {
+      "map": "Insane",
+      "points": 20
+    },
+    {
+      "map": "Insane 2",
+      "points": 20
+    },
+    {
+      "map": "Insane 3",
+      "points": 20
+    },
+    {
+      "map": "Inspire",
+      "points": 20
+    },
+    {
+      "map": "IronFlight",
+      "points": 16
+    },
+    {
+      "map": "Jajka",
+      "points": 20
+    },
+    {
+      "map": "Lost Castle",
+      "points": 16
+    },
+    {
+      "map": "LowPossibility3.1",
+      "points": 20
+    },
+    {
+      "map": "Madness 5",
+      "points": 16
+    },
+    {
+      "map": "MicCore",
+      "points": 16
+    },
+    {
+      "map": "Multivitamin",
+      "points": 16
+    },
+    {
+      "map": "Nasa",
+      "points": 16
+    },
+    {
+      "map": "Natura",
+      "points": 20
+    },
+    {
+      "map": "Night Jungle",
+      "points": 16
+    },
+    {
+      "map": "NightRunner",
+      "points": 16
+    },
+    {
+      "map": "Nightmare",
+      "points": 16
+    },
+    {
+      "map": "Notice 1",
+      "points": 16
+    },
+    {
+      "map": "Ntumba",
+      "points": 16
+    },
+    {
+      "map": "Outlet",
+      "points": 20
+    },
+    {
+      "map": "Paik",
+      "points": 16
+    },
+    {
+      "map": "Paranoia",
+      "points": 8
+    },
+    {
+      "map": "Picklock",
+      "points": 20
+    },
+    {
+      "map": "Poke",
+      "points": 16
+    },
+    {
+      "map": "Rampage",
+      "points": 16
+    },
+    {
+      "map": "Reality",
+      "points": 16
+    },
+    {
+      "map": "Red Hell",
+      "points": 20
+    },
+    {
+      "map": "Repeat",
+      "points": 12
+    },
+    {
+      "map": "Rockita",
+      "points": 16
+    },
+    {
+      "map": "Scabrous 2",
+      "points": 20
+    },
+    {
+      "map": "SkyIsland",
+      "points": 16
+    },
+    {
+      "map": "Skyfly",
+      "points": 16
+    },
+    {
+      "map": "Skyisland2",
+      "points": 16
+    },
+    {
+      "map": "Skyisland3",
+      "points": 16
+    },
+    {
+      "map": "Space",
+      "points": 16
+    },
+    {
+      "map": "Summer Hell",
+      "points": 20
+    },
+    {
+      "map": "The Tower",
+      "points": 12
+    },
+    {
+      "map": "TheWalkingDead",
+      "points": 20
+    },
+    {
+      "map": "Therapy",
+      "points": 20
+    },
+    {
+      "map": "Think! 2",
+      "points": 16
+    },
+    {
+      "map": "Veni Vidi Vici",
+      "points": 16
+    },
+    {
+      "map": "Volcano",
+      "points": 16
+    },
+    {
+      "map": "Woader",
+      "points": 20
+    },
+    {
+      "map": "World of Magic",
+      "points": 16
+    },
+    {
+      "map": "Zephronikon",
+      "points": 16
+    },
+    {
+      "map": "blue-mountains",
+      "points": 16
+    },
+    {
+      "map": "skynet compilation",
+      "points": 16
+    },
+    {
+      "map": "supernice",
+      "points": 20
+    },
+    {
+      "map": "whatever",
+      "points": 16
+    },
+    {
+      "map": "~AuTuMn~",
+      "points": 16
+    }
+  ],
+  "Dummy": [
+    {
+      "map": "Adragaline",
+      "points": 30
+    },
+    {
+      "map": "Adragaline 2",
+      "points": 30
+    },
+    {
+      "map": "Amazing Drags",
+      "points": 25
+    },
+    {
+      "map": "Amber",
+      "points": 15
+    },
+    {
+      "map": "Anim",
+      "points": 25
+    },
+    {
+      "map": "Apex",
+      "points": 15
+    },
+    {
+      "map": "Aries",
+      "points": 20
+    },
+    {
+      "map": "Aurora",
+      "points": 25
+    },
+    {
+      "map": "Azure",
+      "points": 20
+    },
+    {
+      "map": "Bomb Raid",
+      "points": 15
+    },
+    {
+      "map": "Bomb Raid 2",
+      "points": 15
+    },
+    {
+      "map": "Broken hammer",
+      "points": 10
+    },
+    {
+      "map": "Capricorn",
+      "points": 25
+    },
+    {
+      "map": "Castaway",
+      "points": 20
+    },
+    {
+      "map": "Caventure",
+      "points": 10
+    },
+    {
+      "map": "Caventure II",
+      "points": 15
+    },
+    {
+      "map": "Caventure III",
+      "points": 15
+    },
+    {
+      "map": "Caventure IV",
+      "points": 15
+    },
+    {
+      "map": "Chacruna",
+      "points": 15
+    },
+    {
+      "map": "Chained",
+      "points": 20
+    },
+    {
+      "map": "Cloudtide",
+      "points": 15
+    },
+    {
+      "map": "CtS",
+      "points": 25
+    },
+    {
+      "map": "Cultist",
+      "points": 20
+    },
+    {
+      "map": "Dark Depth",
+      "points": 20
+    },
+    {
+      "map": "Dark Night",
+      "points": 20
+    },
+    {
+      "map": "Dark Night 2",
+      "points": 20
+    },
+    {
+      "map": "DarkSpy",
+      "points": 30
+    },
+    {
+      "map": "DarkSpy 2",
+      "points": 30
+    },
+    {
+      "map": "DarkWorld",
+      "points": 25
+    },
+    {
+      "map": "Darkvine",
+      "points": 15
+    },
+    {
+      "map": "Dash Dummy",
+      "points": 25
+    },
+    {
+      "map": "Deadly Chamber",
+      "points": 20
+    },
+    {
+      "map": "DeepDrag",
+      "points": 30
+    },
+    {
+      "map": "Desert Dog",
+      "points": 15
+    },
+    {
+      "map": "Destruction",
+      "points": 15
+    },
+    {
+      "map": "Disability",
+      "points": 15
+    },
+    {
+      "map": "Downhill Jam",
+      "points": 15
+    },
+    {
+      "map": "Drag Master",
+      "points": 25
+    },
+    {
+      "map": "Draxut",
+      "points": 20
+    },
+    {
+      "map": "Dreamland",
+      "points": 20
+    },
+    {
+      "map": "Drip Dry",
+      "points": 20
+    },
+    {
+      "map": "DropDown",
+      "points": 20
+    },
+    {
+      "map": "DuNoMa",
+      "points": 20
+    },
+    {
+      "map": "Dummy Chamber",
+      "points": 10
+    },
+    {
+      "map": "Dummy Chamber 2",
+      "points": 10
+    },
+    {
+      "map": "Dummy Chamber 3",
+      "points": 15
+    },
+    {
+      "map": "DummyCopter",
+      "points": 15
+    },
+    {
+      "map": "Dynamic Dragger",
+      "points": 20
+    },
+    {
+      "map": "Equivalent Exchange",
+      "points": 25
+    },
+    {
+      "map": "Equivalent Exchange 2",
+      "points": 25
+    },
+    {
+      "map": "Escape from the Prison",
+      "points": 15
+    },
+    {
+      "map": "Essential",
+      "points": 15
+    },
+    {
+      "map": "Essential 2",
+      "points": 15
+    },
+    {
+      "map": "Fallen Fortress",
+      "points": 15
+    },
+    {
+      "map": "Feral",
+      "points": 25
+    },
+    {
+      "map": "For You",
+      "points": 15
+    },
+    {
+      "map": "GenericDrag",
+      "points": 25
+    },
+    {
+      "map": "Get2Carry",
+      "points": 20
+    },
+    {
+      "map": "GetCarry",
+      "points": 20
+    },
+    {
+      "map": "Greed",
+      "points": 15
+    },
+    {
+      "map": "Gummy",
+      "points": 20
+    },
+    {
+      "map": "Headache",
+      "points": 15
+    },
+    {
+      "map": "Hiking",
+      "points": 20
+    },
+    {
+      "map": "Hondrag",
+      "points": 20
+    },
+    {
+      "map": "Huanghu",
+      "points": 25
+    },
+    {
+      "map": "Injection",
+      "points": 25
+    },
+    {
+      "map": "Injection 2",
+      "points": 25
+    },
+    {
+      "map": "Injection 3",
+      "points": 30
+    },
+    {
+      "map": "Jao Shooter",
+      "points": 20
+    },
+    {
+      "map": "Jazz Hands",
+      "points": 20
+    },
+    {
+      "map": "Jazz Hands 2",
+      "points": 25
+    },
+    {
+      "map": "Jazzy Sandwich",
+      "points": 20
+    },
+    {
+      "map": "Jelly",
+      "points": 20
+    },
+    {
+      "map": "Juma",
+      "points": 25
+    },
+    {
+      "map": "JungleRabies",
+      "points": 25
+    },
+    {
+      "map": "Just Bump fly",
+      "points": 15
+    },
+    {
+      "map": "Just Rocketfly 1",
+      "points": 15
+    },
+    {
+      "map": "Just Rocketfly 2",
+      "points": 20
+    },
+    {
+      "map": "Just deep fly",
+      "points": 25
+    },
+    {
+      "map": "JustCopyFly",
+      "points": 10
+    },
+    {
+      "map": "Legacy",
+      "points": 25
+    },
+    {
+      "map": "Liang",
+      "points": 25
+    },
+    {
+      "map": "Machine",
+      "points": 15
+    },
+    {
+      "map": "Majin Buu",
+      "points": 25
+    },
+    {
+      "map": "Mina",
+      "points": 20
+    },
+    {
+      "map": "Modest",
+      "points": 25
+    },
+    {
+      "map": "Momentum",
+      "points": 20
+    },
+    {
+      "map": "Momo",
+      "points": 15
+    },
+    {
+      "map": "Mountain Silence",
+      "points": 30
+    },
+    {
+      "map": "Nalar",
+      "points": 30
+    },
+    {
+      "map": "Namida",
+      "points": 30
+    },
+    {
+      "map": "Nebula",
+      "points": 20
+    },
+    {
+      "map": "Nentori",
+      "points": 25
+    },
+    {
+      "map": "Nincorn",
+      "points": 20
+    },
+    {
+      "map": "NoTeleBro",
+      "points": 20
+    },
+    {
+      "map": "Onliner",
+      "points": 20
+    },
+    {
+      "map": "Out of Space",
+      "points": 15
+    },
+    {
+      "map": "Pace",
+      "points": 10
+    },
+    {
+      "map": "Papillon",
+      "points": 25
+    },
+    {
+      "map": "Pataros",
+      "points": 25
+    },
+    {
+      "map": "Pataros II",
+      "points": 20
+    },
+    {
+      "map": "Peru",
+      "points": 20
+    },
+    {
+      "map": "Portalgeist",
+      "points": 15
+    },
+    {
+      "map": "Push ur Dummy",
+      "points": 15
+    },
+    {
+      "map": "RON",
+      "points": 15
+    },
+    {
+      "map": "Rakete",
+      "points": 25
+    },
+    {
+      "map": "Reflect",
+      "points": 20
+    },
+    {
+      "map": "Relief",
+      "points": 30
+    },
+    {
+      "map": "Repentance",
+      "points": 20
+    },
+    {
+      "map": "Resi",
+      "points": 20
+    },
+    {
+      "map": "Rest to Die",
+      "points": 15
+    },
+    {
+      "map": "Rest to Die 2",
+      "points": 20
+    },
+    {
+      "map": "Retro",
+      "points": 20
+    },
+    {
+      "map": "Reverse Pull",
+      "points": 15
+    },
+    {
+      "map": "Reverse Push",
+      "points": 15
+    },
+    {
+      "map": "Roaming Ruins",
+      "points": 15
+    },
+    {
+      "map": "Ryoiki Tenkai",
+      "points": 20
+    },
+    {
+      "map": "S-Class",
+      "points": 15
+    },
+    {
+      "map": "Samdragaline",
+      "points": 20
+    },
+    {
+      "map": "Samsara",
+      "points": 10
+    },
+    {
+      "map": "Samsara II",
+      "points": 15
+    },
+    {
+      "map": "Samsara III",
+      "points": 15
+    },
+    {
+      "map": "Samsara IV",
+      "points": 20
+    },
+    {
+      "map": "Samsara V",
+      "points": 15
+    },
+    {
+      "map": "Samsara VI",
+      "points": 15
+    },
+    {
+      "map": "Samsara VII",
+      "points": 20
+    },
+    {
+      "map": "Sandanjuu",
+      "points": 25
+    },
+    {
+      "map": "SavannaDrag",
+      "points": 20
+    },
+    {
+      "map": "SavannaDrag 2",
+      "points": 20
+    },
+    {
+      "map": "SavannaDrag 3",
+      "points": 20
+    },
+    {
+      "map": "SavannaDrag 4",
+      "points": 25
+    },
+    {
+      "map": "Scuba",
+      "points": 20
+    },
+    {
+      "map": "SkyFly",
+      "points": 10
+    },
+    {
+      "map": "SkyHitch",
+      "points": 15
+    },
+    {
+      "map": "Skychase",
+      "points": 20
+    },
+    {
+      "map": "Skychase 2",
+      "points": 20
+    },
+    {
+      "map": "Skyventure",
+      "points": 20
+    },
+    {
+      "map": "Smash",
+      "points": 15
+    },
+    {
+      "map": "Smolder",
+      "points": 30
+    },
+    {
+      "map": "Spectateer",
+      "points": 20
+    },
+    {
+      "map": "SpookyDrag",
+      "points": 20
+    },
+    {
+      "map": "SpoopyDrag",
+      "points": 15
+    },
+    {
+      "map": "Squadron",
+      "points": 30
+    },
+    {
+      "map": "Stacked",
+      "points": 20
+    },
+    {
+      "map": "Stellar",
+      "points": 10
+    },
+    {
+      "map": "TakeUrLuggage",
+      "points": 15
+    },
+    {
+      "map": "Target",
+      "points": 20
+    },
+    {
+      "map": "Tech",
+      "points": 15
+    },
+    {
+      "map": "Templerun",
+      "points": 20
+    },
+    {
+      "map": "Tied up",
+      "points": 20
+    },
+    {
+      "map": "Toe Taps",
+      "points": 20
+    },
+    {
+      "map": "TomorrowLand",
+      "points": 25
+    },
+    {
+      "map": "Tropical Drag",
+      "points": 20
+    },
+    {
+      "map": "Try It",
+      "points": 15
+    },
+    {
+      "map": "Try It 2",
+      "points": 15
+    },
+    {
+      "map": "Twin Electric Field",
+      "points": 25
+    },
+    {
+      "map": "Ulver",
+      "points": 20
+    },
+    {
+      "map": "Vice City",
+      "points": 20
+    },
+    {
+      "map": "Watch your time",
+      "points": 10
+    },
+    {
+      "map": "Yee",
+      "points": 25
+    },
+    {
+      "map": "Zonsa",
+      "points": 20
+    },
+    {
+      "map": "ZooDrag",
+      "points": 25
+    },
+    {
+      "map": "a_u",
+      "points": 20
+    },
+    {
+      "map": "balega",
+      "points": 15
+    },
+    {
+      "map": "c",
+      "points": 20
+    },
+    {
+      "map": "chainism",
+      "points": 25
+    },
+    {
+      "map": "downpour",
+      "points": 20
+    },
+    {
+      "map": "drg5",
+      "points": 15
+    },
+    {
+      "map": "gendum",
+      "points": 20
+    },
+    {
+      "map": "mbappé",
+      "points": 20
+    },
+    {
+      "map": "miA",
+      "points": 30
+    },
+    {
+      "map": "noconce",
+      "points": 20
+    },
+    {
+      "map": "nora",
+      "points": 25
+    },
+    {
+      "map": "nore",
+      "points": 20
+    },
+    {
+      "map": "noro",
+      "points": 20
+    },
+    {
+      "map": "noru",
+      "points": 20
+    },
+    {
+      "map": "nugtohS",
+      "points": 20
+    },
+    {
+      "map": "oldpath",
+      "points": 20
+    },
+    {
+      "map": "pichummy",
+      "points": 25
+    },
+    {
+      "map": "quon",
+      "points": 25
+    },
+    {
+      "map": "teender",
+      "points": 25
+    },
+    {
+      "map": "unFrozen",
+      "points": 20
+    },
+    {
+      "map": "yayita",
+      "points": 20
+    }
+  ],
+  "Event": [
+    {
+      "map": "2 Days in the back",
+      "points": 12
+    },
+    {
+      "map": "2022",
+      "points": 0
+    },
+    {
+      "map": "2023",
+      "points": 0
+    },
+    {
+      "map": "2024",
+      "points": 0
+    },
+    {
+      "map": "2025",
+      "points": 0
+    },
+    {
+      "map": "Adrenachill 5 Part 1",
+      "points": 16
+    },
+    {
+      "map": "Adrenachill 5 Part 2",
+      "points": 16
+    },
+    {
+      "map": "AiP-Bores",
+      "points": 8
+    },
+    {
+      "map": "Amateur",
+      "points": 12
+    },
+    {
+      "map": "Another Encore",
+      "points": 20
+    },
+    {
+      "map": "Arctic Festivity",
+      "points": 20
+    },
+    {
+      "map": "Back in Festivity",
+      "points": 12
+    },
+    {
+      "map": "Barely Intermediate",
+      "points": 16
+    },
+    {
+      "map": "Bouncyhold",
+      "points": 8
+    },
+    {
+      "map": "Exit [Weapons Edition]",
+      "points": 12
+    },
+    {
+      "map": "JustRocket",
+      "points": 4
+    },
+    {
+      "map": "Memento Vivere",
+      "points": 12
+    },
+    {
+      "map": "Memt0ria",
+      "points": 12
+    },
+    {
+      "map": "Multeasymapsolo",
+      "points": 8
+    },
+    {
+      "map": "Multeasyvolvemap",
+      "points": 8
+    },
+    {
+      "map": "Not Really Yo'Ci",
+      "points": 12
+    },
+    {
+      "map": "Slippy Slide Up",
+      "points": 12
+    },
+    {
+      "map": "Tinyhold",
+      "points": 12
+    },
+    {
+      "map": "run_guys_25",
+      "points": 12
+    },
+    {
+      "map": "xyzyx",
+      "points": 4
+    }
+  ],
+  "Fun": [
+    {
+      "map": "8bit Full Adder",
+      "points": 0
+    },
+    {
+      "map": "9gates",
+      "points": 0
+    },
+    {
+      "map": "Avoid",
+      "points": 0
+    },
+    {
+      "map": "Bowling",
+      "points": 0
+    },
+    {
+      "map": "Bullseye",
+      "points": 0
+    },
+    {
+      "map": "Castle Echos",
+      "points": 0
+    },
+    {
+      "map": "CookieCorporation",
+      "points": 0
+    },
+    {
+      "map": "DVD screensaver",
+      "points": 0
+    },
+    {
+      "map": "Disabled",
+      "points": 0
+    },
+    {
+      "map": "DontMove",
+      "points": 0
+    },
+    {
+      "map": "EdgeDuel",
+      "points": 0
+    },
+    {
+      "map": "Game City",
+      "points": 0
+    },
+    {
+      "map": "Good Movement",
+      "points": 0
+    },
+    {
+      "map": "IWannaBeatTheMap",
+      "points": 0
+    },
+    {
+      "map": "IWannaBeatTheMap2",
+      "points": 0
+    },
+    {
+      "map": "KingsLeap",
+      "points": 0
+    },
+    {
+      "map": "LS10",
+      "points": 0
+    },
+    {
+      "map": "LS9",
+      "points": 0
+    },
+    {
+      "map": "Linear II",
+      "points": 0
+    },
+    {
+      "map": "MultiFAT",
+      "points": 0
+    },
+    {
+      "map": "Quickdraw",
+      "points": 0
+    },
+    {
+      "map": "Seagull City",
+      "points": 0
+    },
+    {
+      "map": "TeeInvader",
+      "points": 0
+    },
+    {
+      "map": "TeeTacToe",
+      "points": 0
+    },
+    {
+      "map": "Time Calculator",
+      "points": 0
+    },
+    {
+      "map": "Volleyball",
+      "points": 0
+    },
+    {
+      "map": "braintee",
+      "points": 0
+    }
+  ],
+  "Insane": [
+    {
+      "map": "1AndOnLyLife",
+      "points": 46
+    },
+    {
+      "map": "4k",
+      "points": 46
+    },
+    {
+      "map": "4q",
+      "points": 34
+    },
+    {
+      "map": "4u",
+      "points": 42
+    },
+    {
+      "map": "808",
+      "points": 34
+    },
+    {
+      "map": "Abyss",
+      "points": 42
+    },
+    {
+      "map": "Adorenarine",
+      "points": 50
+    },
+    {
+      "map": "Adrenaline 4",
+      "points": 50
+    },
+    {
+      "map": "Adrenaline 4.1",
+      "points": 34
+    },
+    {
+      "map": "Adrenaline 4.2",
+      "points": 34
+    },
+    {
+      "map": "Adrenaline 5",
+      "points": 42
+    },
+    {
+      "map": "Aimateur",
+      "points": 46
+    },
+    {
+      "map": "Aimazing",
+      "points": 34
+    },
+    {
+      "map": "Aimbot",
+      "points": 42
+    },
+    {
+      "map": "Aimlicious",
+      "points": 42
+    },
+    {
+      "map": "Aincrad",
+      "points": 34
+    },
+    {
+      "map": "Back in Time 2",
+      "points": 42
+    },
+    {
+      "map": "Back in Time 3",
+      "points": 46
+    },
+    {
+      "map": "Binary",
+      "points": 34
+    },
+    {
+      "map": "Catharsis",
+      "points": 34
+    },
+    {
+      "map": "Control",
+      "points": 34
+    },
+    {
+      "map": "Falling Down",
+      "points": 38
+    },
+    {
+      "map": "FarLands",
+      "points": 34
+    },
+    {
+      "map": "Firestone",
+      "points": 38
+    },
+    {
+      "map": "Generic World",
+      "points": 34
+    },
+    {
+      "map": "Genericore 6",
+      "points": 34
+    },
+    {
+      "map": "Genericore 8",
+      "points": 38
+    },
+    {
+      "map": "Ghoul",
+      "points": 42
+    },
+    {
+      "map": "Grim Reaper",
+      "points": 50
+    },
+    {
+      "map": "Heartcore",
+      "points": 42
+    },
+    {
+      "map": "Heartcore II",
+      "points": 50
+    },
+    {
+      "map": "HellCore",
+      "points": 38
+    },
+    {
+      "map": "Hostile 3",
+      "points": 38
+    },
+    {
+      "map": "Justice",
+      "points": 34
+    },
+    {
+      "map": "Justice 2",
+      "points": 42
+    },
+    {
+      "map": "Mult0map",
+      "points": 34
+    },
+    {
+      "map": "Necron",
+      "points": 34
+    },
+    {
+      "map": "Nether",
+      "points": 34
+    },
+    {
+      "map": "New Generation",
+      "points": 38
+    },
+    {
+      "map": "New Generation II",
+      "points": 42
+    },
+    {
+      "map": "Not Naufrage 4",
+      "points": 34
+    },
+    {
+      "map": "Ravillion",
+      "points": 38
+    },
+    {
+      "map": "Redefined 2",
+      "points": 42
+    },
+    {
+      "map": "Regen 2",
+      "points": 34
+    },
+    {
+      "map": "Resistance",
+      "points": 38
+    },
+    {
+      "map": "Shawker",
+      "points": 34
+    },
+    {
+      "map": "Shockwave",
+      "points": 34
+    },
+    {
+      "map": "Somnium",
+      "points": 34
+    },
+    {
+      "map": "Springlobe 3",
+      "points": 34
+    },
+    {
+      "map": "Tatooine 2",
+      "points": 42
+    },
+    {
+      "map": "Tentrom",
+      "points": 50
+    },
+    {
+      "map": "The Enchanted Clearing",
+      "points": 34
+    },
+    {
+      "map": "Ton",
+      "points": 34
+    },
+    {
+      "map": "Unbalanced 3",
+      "points": 34
+    },
+    {
+      "map": "Until Dawn",
+      "points": 42
+    },
+    {
+      "map": "Vacando",
+      "points": 34
+    },
+    {
+      "map": "Yo'Ci",
+      "points": 34
+    },
+    {
+      "map": "pedeuliar",
+      "points": 42
+    },
+    {
+      "map": "sus'terism",
+      "points": 34
+    },
+    {
+      "map": "sus'terism 2",
+      "points": 38
+    }
+  ],
+  "Moderate": [
+    {
+      "map": "#wontfix",
+      "points": 13
+    },
+    {
+      "map": "0 to 100",
+      "points": 13
+    },
+    {
+      "map": "2 easy for u",
+      "points": 9
+    },
+    {
+      "map": "3Play",
+      "points": 13
+    },
+    {
+      "map": "4 NoooBs",
+      "points": 7
+    },
+    {
+      "map": "AK",
+      "points": 13
+    },
+    {
+      "map": "Aequilibrium",
+      "points": 15
+    },
+    {
+      "map": "Aftermath",
+      "points": 13
+    },
+    {
+      "map": "Afternoon",
+      "points": 13
+    },
+    {
+      "map": "Against the Current",
+      "points": 11
+    },
+    {
+      "map": "Awayst",
+      "points": 7
+    },
+    {
+      "map": "Baby Aim 1.0",
+      "points": 13
+    },
+    {
+      "map": "Baby Aim 2.0",
+      "points": 15
+    },
+    {
+      "map": "Baby Aim 3.0",
+      "points": 15
+    },
+    {
+      "map": "BackToBasics",
+      "points": 15
+    },
+    {
+      "map": "BackToBasics2",
+      "points": 13
+    },
+    {
+      "map": "Baerchen",
+      "points": 7
+    },
+    {
+      "map": "Bob",
+      "points": 9
+    },
+    {
+      "map": "Boo!",
+      "points": 13
+    },
+    {
+      "map": "Bootcamp #1",
+      "points": 13
+    },
+    {
+      "map": "Bootcamp #2",
+      "points": 11
+    },
+    {
+      "map": "Borace",
+      "points": 15
+    },
+    {
+      "map": "Bornrif",
+      "points": 11
+    },
+    {
+      "map": "Bouncy Kingdom",
+      "points": 13
+    },
+    {
+      "map": "Brony",
+      "points": 11
+    },
+    {
+      "map": "Brown",
+      "points": 13
+    },
+    {
+      "map": "Bubbles",
+      "points": 13
+    },
+    {
+      "map": "CYO",
+      "points": 5
+    },
+    {
+      "map": "Canyang",
+      "points": 15
+    },
+    {
+      "map": "Captain America",
+      "points": 9
+    },
+    {
+      "map": "Casa der Merde",
+      "points": 15
+    },
+    {
+      "map": "Castle",
+      "points": 9
+    },
+    {
+      "map": "Castle Lemongrab",
+      "points": 11
+    },
+    {
+      "map": "Castle Mario",
+      "points": 13
+    },
+    {
+      "map": "Caution",
+      "points": 11
+    },
+    {
+      "map": "Cavings I",
+      "points": 9
+    },
+    {
+      "map": "Challenge",
+      "points": 13
+    },
+    {
+      "map": "Chevtzo",
+      "points": 13
+    },
+    {
+      "map": "Circle",
+      "points": 13
+    },
+    {
+      "map": "Clarity",
+      "points": 7
+    },
+    {
+      "map": "Cleopatra",
+      "points": 13
+    },
+    {
+      "map": "Climax",
+      "points": 15
+    },
+    {
+      "map": "Coffee I",
+      "points": 7
+    },
+    {
+      "map": "Coffee II",
+      "points": 7
+    },
+    {
+      "map": "Conscientious",
+      "points": 13
+    },
+    {
+      "map": "Construction I",
+      "points": 15
+    },
+    {
+      "map": "Crimson Woods",
+      "points": 7
+    },
+    {
+      "map": "Cross",
+      "points": 13
+    },
+    {
+      "map": "Cry",
+      "points": 9
+    },
+    {
+      "map": "Crystal Maze",
+      "points": 13
+    },
+    {
+      "map": "Cup of Tee",
+      "points": 7
+    },
+    {
+      "map": "Cyber Space",
+      "points": 11
+    },
+    {
+      "map": "DaoYu",
+      "points": 9
+    },
+    {
+      "map": "DaoYu Night",
+      "points": 13
+    },
+    {
+      "map": "DarkRoad",
+      "points": 15
+    },
+    {
+      "map": "Daunell",
+      "points": 11
+    },
+    {
+      "map": "Dawn To Dusk",
+      "points": 15
+    },
+    {
+      "map": "Day One",
+      "points": 15
+    },
+    {
+      "map": "Day Three",
+      "points": 13
+    },
+    {
+      "map": "Day Two",
+      "points": 15
+    },
+    {
+      "map": "DayDrive",
+      "points": 7
+    },
+    {
+      "map": "Dead",
+      "points": 15
+    },
+    {
+      "map": "Death Sentence 2",
+      "points": 15
+    },
+    {
+      "map": "DeathHook",
+      "points": 11
+    },
+    {
+      "map": "Depressed",
+      "points": 15
+    },
+    {
+      "map": "Depressed II",
+      "points": 15
+    },
+    {
+      "map": "Desoxyribonukleinsäure",
+      "points": 13
+    },
+    {
+      "map": "Distance",
+      "points": 13
+    },
+    {
+      "map": "Dizzy",
+      "points": 7
+    },
+    {
+      "map": "Doable",
+      "points": 11
+    },
+    {
+      "map": "Dubush",
+      "points": 13
+    },
+    {
+      "map": "Dummy 2",
+      "points": 11
+    },
+    {
+      "map": "Dusty Road",
+      "points": 15
+    },
+    {
+      "map": "Early Winter",
+      "points": 13
+    },
+    {
+      "map": "Earthborn",
+      "points": 11
+    },
+    {
+      "map": "Easy Edge",
+      "points": 13
+    },
+    {
+      "map": "Easy Hook",
+      "points": 11
+    },
+    {
+      "map": "Elitissimo",
+      "points": 15
+    },
+    {
+      "map": "Emerald",
+      "points": 13
+    },
+    {
+      "map": "Empty",
+      "points": 15
+    },
+    {
+      "map": "Entei",
+      "points": 13
+    },
+    {
+      "map": "Eternal",
+      "points": 13
+    },
+    {
+      "map": "Eternal 2",
+      "points": 15
+    },
+    {
+      "map": "Etna_1",
+      "points": 9
+    },
+    {
+      "map": "Everlast",
+      "points": 13
+    },
+    {
+      "map": "Excast",
+      "points": 11
+    },
+    {
+      "map": "Excast 2",
+      "points": 15
+    },
+    {
+      "map": "Excast 3",
+      "points": 13
+    },
+    {
+      "map": "Excast 4",
+      "points": 13
+    },
+    {
+      "map": "Excast 5",
+      "points": 15
+    },
+    {
+      "map": "Exit",
+      "points": 9
+    },
+    {
+      "map": "FWYS Key 1",
+      "points": 13
+    },
+    {
+      "map": "FaCe",
+      "points": 13
+    },
+    {
+      "map": "Fall & Rise",
+      "points": 15
+    },
+    {
+      "map": "FastRun",
+      "points": 9
+    },
+    {
+      "map": "Felian",
+      "points": 15
+    },
+    {
+      "map": "Fender",
+      "points": 13
+    },
+    {
+      "map": "FindTheFreeze",
+      "points": 9
+    },
+    {
+      "map": "Firedelay",
+      "points": 15
+    },
+    {
+      "map": "Fishbone",
+      "points": 13
+    },
+    {
+      "map": "Fluff 2",
+      "points": 13
+    },
+    {
+      "map": "Forgotten Lands",
+      "points": 15
+    },
+    {
+      "map": "Freeze Jungle",
+      "points": 13
+    },
+    {
+      "map": "Fried",
+      "points": 15
+    },
+    {
+      "map": "Galaxy Story",
+      "points": 11
+    },
+    {
+      "map": "Galaxy Turn",
+      "points": 7
+    },
+    {
+      "map": "Gibson",
+      "points": 13
+    },
+    {
+      "map": "Glitchhold",
+      "points": 11
+    },
+    {
+      "map": "Golden",
+      "points": 11
+    },
+    {
+      "map": "Grace",
+      "points": 11
+    },
+    {
+      "map": "Green Race",
+      "points": 9
+    },
+    {
+      "map": "GuggPaloczi",
+      "points": 13
+    },
+    {
+      "map": "Guhimbarwa",
+      "points": 15
+    },
+    {
+      "map": "HURT",
+      "points": 15
+    },
+    {
+      "map": "HeartOfMoon",
+      "points": 13
+    },
+    {
+      "map": "Heaven",
+      "points": 9
+    },
+    {
+      "map": "Hell 2",
+      "points": 13
+    },
+    {
+      "map": "HellGate 3.5",
+      "points": 9
+    },
+    {
+      "map": "HellGate X",
+      "points": 13
+    },
+    {
+      "map": "Herbstzeitlose",
+      "points": 13
+    },
+    {
+      "map": "High Five",
+      "points": 9
+    },
+    {
+      "map": "Holiday Adventure",
+      "points": 13
+    },
+    {
+      "map": "Holidays",
+      "points": 13
+    },
+    {
+      "map": "Hollow",
+      "points": 9
+    },
+    {
+      "map": "Hollow 2",
+      "points": 7
+    },
+    {
+      "map": "HookThrough3",
+      "points": 11
+    },
+    {
+      "map": "Hookthrough",
+      "points": 7
+    },
+    {
+      "map": "Hookthrough 2",
+      "points": 11
+    },
+    {
+      "map": "Hubbel",
+      "points": 13
+    },
+    {
+      "map": "Humpalumpa 1",
+      "points": 13
+    },
+    {
+      "map": "Humpalumpa 2",
+      "points": 13
+    },
+    {
+      "map": "Hyper",
+      "points": 11
+    },
+    {
+      "map": "Hyper 2",
+      "points": 11
+    },
+    {
+      "map": "Ice Cave 1",
+      "points": 13
+    },
+    {
+      "map": "Ice Cave 2",
+      "points": 13
+    },
+    {
+      "map": "Imposand",
+      "points": 13
+    },
+    {
+      "map": "Intense 1.0",
+      "points": 7
+    },
+    {
+      "map": "Intense 2.0",
+      "points": 11
+    },
+    {
+      "map": "Intothenight",
+      "points": 15
+    },
+    {
+      "map": "JP",
+      "points": 7
+    },
+    {
+      "map": "Jumanji",
+      "points": 15
+    },
+    {
+      "map": "Just Every Fly",
+      "points": 7
+    },
+    {
+      "map": "Just HookThrough",
+      "points": 9
+    },
+    {
+      "map": "Justix",
+      "points": 9
+    },
+    {
+      "map": "Jvice",
+      "points": 9
+    },
+    {
+      "map": "Kalimba",
+      "points": 13
+    },
+    {
+      "map": "KeeZ",
+      "points": 13
+    },
+    {
+      "map": "Kero-Gores8",
+      "points": 11
+    },
+    {
+      "map": "Kiko",
+      "points": 13
+    },
+    {
+      "map": "Kopell",
+      "points": 7
+    },
+    {
+      "map": "Launch Them",
+      "points": 13
+    },
+    {
+      "map": "LazeAround",
+      "points": 15
+    },
+    {
+      "map": "LazeAround2",
+      "points": 11
+    },
+    {
+      "map": "Let's Fail!",
+      "points": 15
+    },
+    {
+      "map": "Level",
+      "points": 11
+    },
+    {
+      "map": "Limitation",
+      "points": 11
+    },
+    {
+      "map": "Limitless",
+      "points": 15
+    },
+    {
+      "map": "Little Adventure",
+      "points": 9
+    },
+    {
+      "map": "Lygerastia",
+      "points": 9
+    },
+    {
+      "map": "Magnitude",
+      "points": 11
+    },
+    {
+      "map": "MapleSyrup",
+      "points": 15
+    },
+    {
+      "map": "Maranko",
+      "points": 15
+    },
+    {
+      "map": "Mario_reloaded",
+      "points": 13
+    },
+    {
+      "map": "MiddleFinger",
+      "points": 9
+    },
+    {
+      "map": "Midnight",
+      "points": 15
+    },
+    {
+      "map": "Minimum",
+      "points": 13
+    },
+    {
+      "map": "Mirage",
+      "points": 7
+    },
+    {
+      "map": "MonkeyDream",
+      "points": 7
+    },
+    {
+      "map": "MonkeyDream 2",
+      "points": 9
+    },
+    {
+      "map": "MonkeyDream 3",
+      "points": 13
+    },
+    {
+      "map": "Monster",
+      "points": 13
+    },
+    {
+      "map": "Moon Roar",
+      "points": 13
+    },
+    {
+      "map": "MoonPie",
+      "points": 11
+    },
+    {
+      "map": "Motherlode",
+      "points": 13
+    },
+    {
+      "map": "Mount",
+      "points": 9
+    },
+    {
+      "map": "MysteryCompound",
+      "points": 15
+    },
+    {
+      "map": "Neon 1",
+      "points": 13
+    },
+    {
+      "map": "Neverwhere",
+      "points": 15
+    },
+    {
+      "map": "New Era",
+      "points": 13
+    },
+    {
+      "map": "Next Grey",
+      "points": 9
+    },
+    {
+      "map": "NiggoDrag",
+      "points": 13
+    },
+    {
+      "map": "NightSky",
+      "points": 11
+    },
+    {
+      "map": "NightSky2",
+      "points": 11
+    },
+    {
+      "map": "NightSky3",
+      "points": 11
+    },
+    {
+      "map": "NightSky4",
+      "points": 13
+    },
+    {
+      "map": "No Merci",
+      "points": 13
+    },
+    {
+      "map": "Noo!",
+      "points": 9
+    },
+    {
+      "map": "Noovice!",
+      "points": 7
+    },
+    {
+      "map": "Not Adrenaline 4",
+      "points": 11
+    },
+    {
+      "map": "Not Novice",
+      "points": 13
+    },
+    {
+      "map": "Nujabes",
+      "points": 11
+    },
+    {
+      "map": "Olymp",
+      "points": 11
+    },
+    {
+      "map": "One Way",
+      "points": 11
+    },
+    {
+      "map": "Optimum",
+      "points": 15
+    },
+    {
+      "map": "Outbreak",
+      "points": 7
+    },
+    {
+      "map": "P2Z_Crungle",
+      "points": 9
+    },
+    {
+      "map": "P2Z_DeadlyJungle",
+      "points": 11
+    },
+    {
+      "map": "P2Z_Island",
+      "points": 13
+    },
+    {
+      "map": "P2Z_Soar",
+      "points": 11
+    },
+    {
+      "map": "Past",
+      "points": 13
+    },
+    {
+      "map": "Patchwork",
+      "points": 15
+    },
+    {
+      "map": "Peaceful Jungle",
+      "points": 9
+    },
+    {
+      "map": "Peaceful Jungle 2",
+      "points": 13
+    },
+    {
+      "map": "Pharice",
+      "points": 9
+    },
+    {
+      "map": "Pharice 2",
+      "points": 11
+    },
+    {
+      "map": "Piranha",
+      "points": 9
+    },
+    {
+      "map": "Pisull",
+      "points": 7
+    },
+    {
+      "map": "Pizza",
+      "points": 13
+    },
+    {
+      "map": "Plan A",
+      "points": 11
+    },
+    {
+      "map": "Plan B",
+      "points": 11
+    },
+    {
+      "map": "Plan C",
+      "points": 11
+    },
+    {
+      "map": "Planet Jupiter",
+      "points": 7
+    },
+    {
+      "map": "Plue",
+      "points": 9
+    },
+    {
+      "map": "Pogchy",
+      "points": 13
+    },
+    {
+      "map": "Pranki",
+      "points": 13
+    },
+    {
+      "map": "PreciousDream",
+      "points": 11
+    },
+    {
+      "map": "Primeval Forest",
+      "points": 15
+    },
+    {
+      "map": "Purple Panic 3",
+      "points": 11
+    },
+    {
+      "map": "Purple Panic 4",
+      "points": 11
+    },
+    {
+      "map": "PurpleHeaven",
+      "points": 15
+    },
+    {
+      "map": "PurpleViolence",
+      "points": 11
+    },
+    {
+      "map": "Push Them",
+      "points": 11
+    },
+    {
+      "map": "Push him",
+      "points": 11
+    },
+    {
+      "map": "Pyramids",
+      "points": 13
+    },
+    {
+      "map": "Qianye",
+      "points": 15
+    },
+    {
+      "map": "Rainbow Sunrise",
+      "points": 13
+    },
+    {
+      "map": "Rapture",
+      "points": 13
+    },
+    {
+      "map": "Ray - 2",
+      "points": 13
+    },
+    {
+      "map": "Rayquaza",
+      "points": 13
+    },
+    {
+      "map": "Red Avenue",
+      "points": 13
+    },
+    {
+      "map": "Redemption",
+      "points": 11
+    },
+    {
+      "map": "Request",
+      "points": 9
+    },
+    {
+      "map": "Resoren",
+      "points": 11
+    },
+    {
+      "map": "Rivendell",
+      "points": 11
+    },
+    {
+      "map": "Romantic",
+      "points": 13
+    },
+    {
+      "map": "Rotate",
+      "points": 9
+    },
+    {
+      "map": "Run Free",
+      "points": 11
+    },
+    {
+      "map": "Sabell",
+      "points": 13
+    },
+    {
+      "map": "Sacred Source",
+      "points": 13
+    },
+    {
+      "map": "Sandland",
+      "points": 9
+    },
+    {
+      "map": "Seduction",
+      "points": 15
+    },
+    {
+      "map": "Short",
+      "points": 11
+    },
+    {
+      "map": "Short Flight",
+      "points": 13
+    },
+    {
+      "map": "Short2",
+      "points": 11
+    },
+    {
+      "map": "Silk Touch",
+      "points": 13
+    },
+    {
+      "map": "Simple World",
+      "points": 9
+    },
+    {
+      "map": "Simple World 2",
+      "points": 9
+    },
+    {
+      "map": "Simple World 3",
+      "points": 11
+    },
+    {
+      "map": "SimplePlay",
+      "points": 5
+    },
+    {
+      "map": "SimplePlay 2",
+      "points": 5
+    },
+    {
+      "map": "SimplePlay 3",
+      "points": 5
+    },
+    {
+      "map": "SimplePlay 4",
+      "points": 11
+    },
+    {
+      "map": "SkiLLz",
+      "points": 11
+    },
+    {
+      "map": "Sky Stone",
+      "points": 13
+    },
+    {
+      "map": "Slime",
+      "points": 7
+    },
+    {
+      "map": "Slow Santa",
+      "points": 11
+    },
+    {
+      "map": "Snow Problem",
+      "points": 11
+    },
+    {
+      "map": "Snowy Mountain",
+      "points": 13
+    },
+    {
+      "map": "Soft",
+      "points": 15
+    },
+    {
+      "map": "SomewhereDistant",
+      "points": 9
+    },
+    {
+      "map": "Sonne, Mond und Sterne",
+      "points": 11
+    },
+    {
+      "map": "Sounds",
+      "points": 11
+    },
+    {
+      "map": "SpongeBob 3",
+      "points": 9
+    },
+    {
+      "map": "Spooky",
+      "points": 11
+    },
+    {
+      "map": "Spoon",
+      "points": 11
+    },
+    {
+      "map": "Squidgy",
+      "points": 11
+    },
+    {
+      "map": "Stargazing",
+      "points": 9
+    },
+    {
+      "map": "Starlit Peaks",
+      "points": 9
+    },
+    {
+      "map": "SunDay",
+      "points": 9
+    },
+    {
+      "map": "SunDay 2",
+      "points": 15
+    },
+    {
+      "map": "SunDay 3",
+      "points": 15
+    },
+    {
+      "map": "Sundara",
+      "points": 15
+    },
+    {
+      "map": "Sunlit Peaks",
+      "points": 11
+    },
+    {
+      "map": "Sunny Land",
+      "points": 9
+    },
+    {
+      "map": "Sunreal",
+      "points": 11
+    },
+    {
+      "map": "Sunrice",
+      "points": 15
+    },
+    {
+      "map": "Swoosh",
+      "points": 13
+    },
+    {
+      "map": "Temple of Doom",
+      "points": 15
+    },
+    {
+      "map": "Tetris",
+      "points": 13
+    },
+    {
+      "map": "The Beginning",
+      "points": 9
+    },
+    {
+      "map": "The Bunker",
+      "points": 11
+    },
+    {
+      "map": "The East Desert",
+      "points": 11
+    },
+    {
+      "map": "The Problem",
+      "points": 13
+    },
+    {
+      "map": "The Shire",
+      "points": 9
+    },
+    {
+      "map": "The Swamp",
+      "points": 15
+    },
+    {
+      "map": "The Trip",
+      "points": 11
+    },
+    {
+      "map": "Tiji",
+      "points": 15
+    },
+    {
+      "map": "Time Shop",
+      "points": 15
+    },
+    {
+      "map": "Toadsquad",
+      "points": 11
+    },
+    {
+      "map": "Tobi",
+      "points": 7
+    },
+    {
+      "map": "Top 2",
+      "points": 11
+    },
+    {
+      "map": "Topsy Turvy",
+      "points": 13
+    },
+    {
+      "map": "TowerOfDesperation",
+      "points": 13
+    },
+    {
+      "map": "Tricktee",
+      "points": 15
+    },
+    {
+      "map": "Tropica",
+      "points": 9
+    },
+    {
+      "map": "Try Again",
+      "points": 9
+    },
+    {
+      "map": "Tube",
+      "points": 15
+    },
+    {
+      "map": "Tunak Tunak Tun",
+      "points": 15
+    },
+    {
+      "map": "Twix",
+      "points": 9
+    },
+    {
+      "map": "Underwater",
+      "points": 15
+    },
+    {
+      "map": "UpNDown Coop",
+      "points": 9
+    },
+    {
+      "map": "Vigorous",
+      "points": 11
+    },
+    {
+      "map": "Vizur 2",
+      "points": 7
+    },
+    {
+      "map": "WEEDS",
+      "points": 11
+    },
+    {
+      "map": "Weapons",
+      "points": 7
+    },
+    {
+      "map": "Wonderland",
+      "points": 15
+    },
+    {
+      "map": "Wrong Forest",
+      "points": 11
+    },
+    {
+      "map": "Xabier",
+      "points": 11
+    },
+    {
+      "map": "Yeyou 1",
+      "points": 15
+    },
+    {
+      "map": "Yeyou 2",
+      "points": 15
+    },
+    {
+      "map": "Yeyou 3",
+      "points": 15
+    },
+    {
+      "map": "Yeyou 4",
+      "points": 15
+    },
+    {
+      "map": "Yun Gu",
+      "points": 15
+    },
+    {
+      "map": "Zaiross-Gores",
+      "points": 7
+    },
+    {
+      "map": "Zoroark",
+      "points": 11
+    },
+    {
+      "map": "[SI] AVADA",
+      "points": 9
+    },
+    {
+      "map": "[SI] DANICA",
+      "points": 11
+    },
+    {
+      "map": "[SI] INSTINCT",
+      "points": 9
+    },
+    {
+      "map": "[SI] KABOO",
+      "points": 9
+    },
+    {
+      "map": "[SI] LAVITA",
+      "points": 9
+    },
+    {
+      "map": "[SI] NEVERLAND",
+      "points": 11
+    },
+    {
+      "map": "[SI] SELEN",
+      "points": 11
+    },
+    {
+      "map": "[SI] VIADANTE",
+      "points": 11
+    },
+    {
+      "map": "[SI] YELLOW",
+      "points": 9
+    },
+    {
+      "map": "a_simple_run",
+      "points": 9
+    },
+    {
+      "map": "acan",
+      "points": 15
+    },
+    {
+      "map": "alternative",
+      "points": 13
+    },
+    {
+      "map": "dote",
+      "points": 11
+    },
+    {
+      "map": "faye",
+      "points": 7
+    },
+    {
+      "map": "garden",
+      "points": 13
+    },
+    {
+      "map": "idk",
+      "points": 11
+    },
+    {
+      "map": "luminati",
+      "points": 15
+    },
+    {
+      "map": "lumine",
+      "points": 15
+    },
+    {
+      "map": "mainstream",
+      "points": 9
+    },
+    {
+      "map": "minion",
+      "points": 15
+    },
+    {
+      "map": "moondrag",
+      "points": 11
+    },
+    {
+      "map": "moyu",
+      "points": 7
+    },
+    {
+      "map": "nameless map",
+      "points": 13
+    },
+    {
+      "map": "oco",
+      "points": 13
+    },
+    {
+      "map": "piViq",
+      "points": 11
+    },
+    {
+      "map": "powerless",
+      "points": 11
+    },
+    {
+      "map": "powerless2",
+      "points": 13
+    },
+    {
+      "map": "rizek",
+      "points": 7
+    },
+    {
+      "map": "sense",
+      "points": 13
+    },
+    {
+      "map": "spirit",
+      "points": 13
+    },
+    {
+      "map": "tihid",
+      "points": 11
+    },
+    {
+      "map": "weixun",
+      "points": 11
+    }
+  ],
+  "Novice": [
+    {
+      "map": "(wasntme)",
+      "points": 4
+    },
+    {
+      "map": "4Beginners",
+      "points": 1
+    },
+    {
+      "map": "4Nubs",
+      "points": 1
+    },
+    {
+      "map": "Absurd 1",
+      "points": 3
+    },
+    {
+      "map": "Absurd 2",
+      "points": 3
+    },
+    {
+      "map": "Absurd 3",
+      "points": 5
+    },
+    {
+      "map": "Absurd 4",
+      "points": 4
+    },
+    {
+      "map": "Absurd 5",
+      "points": 3
+    },
+    {
+      "map": "Axison",
+      "points": 3
+    },
+    {
+      "map": "Banta",
+      "points": 3
+    },
+    {
+      "map": "Basics",
+      "points": 1
+    },
+    {
+      "map": "Batman",
+      "points": 3
+    },
+    {
+      "map": "Beyond Dreams",
+      "points": 2
+    },
+    {
+      "map": "Beyond Light",
+      "points": 5
+    },
+    {
+      "map": "Blue Sapphire",
+      "points": 5
+    },
+    {
+      "map": "BlueChaos",
+      "points": 4
+    },
+    {
+      "map": "Bullets",
+      "points": 3
+    },
+    {
+      "map": "Camouflage",
+      "points": 3
+    },
+    {
+      "map": "CandyLand",
+      "points": 1
+    },
+    {
+      "map": "Careless",
+      "points": 5
+    },
+    {
+      "map": "Cartoon",
+      "points": 4
+    },
+    {
+      "map": "Chicken Pie",
+      "points": 2
+    },
+    {
+      "map": "Chicken Pie 2",
+      "points": 5
+    },
+    {
+      "map": "Chill Wood",
+      "points": 4
+    },
+    {
+      "map": "Chobo",
+      "points": 4
+    },
+    {
+      "map": "Circular",
+      "points": 5
+    },
+    {
+      "map": "Cliff Charge",
+      "points": 2
+    },
+    {
+      "map": "Cool",
+      "points": 4
+    },
+    {
+      "map": "Cuboid",
+      "points": 3
+    },
+    {
+      "map": "Dark Moon",
+      "points": 3
+    },
+    {
+      "map": "Decipher",
+      "points": 5
+    },
+    {
+      "map": "Deino",
+      "points": 4
+    },
+    {
+      "map": "DetrimentalFactor",
+      "points": 4
+    },
+    {
+      "map": "Diamond Mine",
+      "points": 4
+    },
+    {
+      "map": "Diversity",
+      "points": 5
+    },
+    {
+      "map": "Dry Lagoon",
+      "points": 5
+    },
+    {
+      "map": "Easy 1",
+      "points": 2
+    },
+    {
+      "map": "EasyRight",
+      "points": 4
+    },
+    {
+      "map": "EasyRight 2",
+      "points": 5
+    },
+    {
+      "map": "EasyRight 3",
+      "points": 4
+    },
+    {
+      "map": "El Quisco",
+      "points": 4
+    },
+    {
+      "map": "Electric",
+      "points": 5
+    },
+    {
+      "map": "Empire Desp",
+      "points": 5
+    },
+    {
+      "map": "Epix",
+      "points": 4
+    },
+    {
+      "map": "Eventide",
+      "points": 3
+    },
+    {
+      "map": "Fiji",
+      "points": 5
+    },
+    {
+      "map": "Firewatch",
+      "points": 3
+    },
+    {
+      "map": "Firewatch 2",
+      "points": 3
+    },
+    {
+      "map": "Fluff",
+      "points": 3
+    },
+    {
+      "map": "For Idiots 1",
+      "points": 2
+    },
+    {
+      "map": "For Idiots 2",
+      "points": 2
+    },
+    {
+      "map": "Future_Race",
+      "points": 5
+    },
+    {
+      "map": "GeRollA",
+      "points": 3
+    },
+    {
+      "map": "Geneque",
+      "points": 4
+    },
+    {
+      "map": "Give u the Moon",
+      "points": 3
+    },
+    {
+      "map": "Glade",
+      "points": 3
+    },
+    {
+      "map": "GlassBox",
+      "points": 3
+    },
+    {
+      "map": "GlassBox 2",
+      "points": 2
+    },
+    {
+      "map": "GlassBox 3",
+      "points": 2
+    },
+    {
+      "map": "GlassBox 4",
+      "points": 2
+    },
+    {
+      "map": "GlassBox 5",
+      "points": 2
+    },
+    {
+      "map": "GlassBox 6",
+      "points": 2
+    },
+    {
+      "map": "GlassBox 7",
+      "points": 3
+    },
+    {
+      "map": "GlassBox 8",
+      "points": 5
+    },
+    {
+      "map": "Gold Mine",
+      "points": 1
+    },
+    {
+      "map": "Goo!",
+      "points": 4
+    },
+    {
+      "map": "GreenAde",
+      "points": 2
+    },
+    {
+      "map": "Grell",
+      "points": 3
+    },
+    {
+      "map": "Halloween Night",
+      "points": 2
+    },
+    {
+      "map": "Harvest",
+      "points": 4
+    },
+    {
+      "map": "Homesick",
+      "points": 5
+    },
+    {
+      "map": "Hoo!",
+      "points": 4
+    },
+    {
+      "map": "Houll",
+      "points": 3
+    },
+    {
+      "map": "Hulk",
+      "points": 4
+    },
+    {
+      "map": "Ice Water",
+      "points": 3
+    },
+    {
+      "map": "Icebreaker",
+      "points": 4
+    },
+    {
+      "map": "Iced",
+      "points": 5
+    },
+    {
+      "map": "Introduction",
+      "points": 2
+    },
+    {
+      "map": "Inure",
+      "points": 3
+    },
+    {
+      "map": "Iris",
+      "points": 4
+    },
+    {
+      "map": "IronMan",
+      "points": 3
+    },
+    {
+      "map": "Island Rush",
+      "points": 3
+    },
+    {
+      "map": "It's Easy",
+      "points": 2
+    },
+    {
+      "map": "Jungle Camp",
+      "points": 5
+    },
+    {
+      "map": "Just2Easy",
+      "points": 1
+    },
+    {
+      "map": "Kaylite",
+      "points": 4
+    },
+    {
+      "map": "Kindergarten",
+      "points": 5
+    },
+    {
+      "map": "Kobra",
+      "points": 4
+    },
+    {
+      "map": "Kobra 2",
+      "points": 3
+    },
+    {
+      "map": "Kobra 3",
+      "points": 4
+    },
+    {
+      "map": "Kobra 4",
+      "points": 4
+    },
+    {
+      "map": "Lavender Forest",
+      "points": 5
+    },
+    {
+      "map": "LearnToPlay",
+      "points": 2
+    },
+    {
+      "map": "Light Grey",
+      "points": 3
+    },
+    {
+      "map": "Lighthouse",
+      "points": 5
+    },
+    {
+      "map": "Linear",
+      "points": 2
+    },
+    {
+      "map": "Little Forest",
+      "points": 5
+    },
+    {
+      "map": "Lonely",
+      "points": 3
+    },
+    {
+      "map": "Looney",
+      "points": 4
+    },
+    {
+      "map": "Lowcore",
+      "points": 2
+    },
+    {
+      "map": "MagiK",
+      "points": 5
+    },
+    {
+      "map": "Maui Wowie",
+      "points": 4
+    },
+    {
+      "map": "Maui Wowie 2",
+      "points": 4
+    },
+    {
+      "map": "Mellifluous",
+      "points": 5
+    },
+    {
+      "map": "Mint",
+      "points": 5
+    },
+    {
+      "map": "Moonlight",
+      "points": 3
+    },
+    {
+      "map": "Multeasymap",
+      "points": 5
+    },
+    {
+      "map": "Open Lane",
+      "points": 5
+    },
+    {
+      "map": "Orion",
+      "points": 5
+    },
+    {
+      "map": "Ovell",
+      "points": 3
+    },
+    {
+      "map": "Pados 1",
+      "points": 1
+    },
+    {
+      "map": "Pados 2",
+      "points": 3
+    },
+    {
+      "map": "Pados 3",
+      "points": 3
+    },
+    {
+      "map": "Petrified",
+      "points": 3
+    },
+    {
+      "map": "Planet Mars",
+      "points": 4
+    },
+    {
+      "map": "Planet Mercury",
+      "points": 4
+    },
+    {
+      "map": "Planet Venus",
+      "points": 5
+    },
+    {
+      "map": "Pounamu",
+      "points": 3
+    },
+    {
+      "map": "Pounamu 2",
+      "points": 4
+    },
+    {
+      "map": "Psyll",
+      "points": 3
+    },
+    {
+      "map": "SeMang 1",
+      "points": 5
+    },
+    {
+      "map": "SeMang 2",
+      "points": 5
+    },
+    {
+      "map": "Seagulls",
+      "points": 5
+    },
+    {
+      "map": "Seasons",
+      "points": 1
+    },
+    {
+      "map": "Semang 3",
+      "points": 5
+    },
+    {
+      "map": "Senani",
+      "points": 5
+    },
+    {
+      "map": "Shadow",
+      "points": 5
+    },
+    {
+      "map": "Sincera",
+      "points": 4
+    },
+    {
+      "map": "Sincera 2",
+      "points": 5
+    },
+    {
+      "map": "Sketch",
+      "points": 5
+    },
+    {
+      "map": "Sopella",
+      "points": 3
+    },
+    {
+      "map": "Sorrow",
+      "points": 3
+    },
+    {
+      "map": "Spüli",
+      "points": 3
+    },
+    {
+      "map": "StepByStep",
+      "points": 1
+    },
+    {
+      "map": "Sunlight",
+      "points": 3
+    },
+    {
+      "map": "Sunny Side Up",
+      "points": 3
+    },
+    {
+      "map": "Take it noobly",
+      "points": 2
+    },
+    {
+      "map": "Tangerine",
+      "points": 1
+    },
+    {
+      "map": "TeeWorld",
+      "points": 3
+    },
+    {
+      "map": "Teeasy",
+      "points": 1
+    },
+    {
+      "map": "Teleport",
+      "points": 3
+    },
+    {
+      "map": "The Forest",
+      "points": 3
+    },
+    {
+      "map": "Thor",
+      "points": 3
+    },
+    {
+      "map": "Threll",
+      "points": 3
+    },
+    {
+      "map": "Tiny Tandem",
+      "points": 3
+    },
+    {
+      "map": "Top 1",
+      "points": 2
+    },
+    {
+      "map": "Top 3",
+      "points": 3
+    },
+    {
+      "map": "Tsunami",
+      "points": 1
+    },
+    {
+      "map": "Tutorial",
+      "points": 1
+    },
+    {
+      "map": "Undrag2",
+      "points": 3
+    },
+    {
+      "map": "Vizur",
+      "points": 4
+    },
+    {
+      "map": "WTF",
+      "points": 4
+    },
+    {
+      "map": "Water Lily",
+      "points": 2
+    },
+    {
+      "map": "Xolla",
+      "points": 5
+    },
+    {
+      "map": "ZeroX",
+      "points": 2
+    },
+    {
+      "map": "[School] Hammer",
+      "points": 2
+    },
+    {
+      "map": "[School] Hook",
+      "points": 2
+    },
+    {
+      "map": "benrace",
+      "points": 3
+    },
+    {
+      "map": "newbee",
+      "points": 2
+    },
+    {
+      "map": "xyz_ddrace2",
+      "points": 3
+    }
+  ],
+  "Oldschool": [
+    {
+      "map": "-273",
+      "points": 18
+    },
+    {
+      "map": "17_Jungle",
+      "points": 12
+    },
+    {
+      "map": "1TeeMap",
+      "points": 6
+    },
+    {
+      "map": "2moons",
+      "points": 12
+    },
+    {
+      "map": "3moons",
+      "points": 12
+    },
+    {
+      "map": "AiP-Gores",
+      "points": 6
+    },
+    {
+      "map": "AipKoule",
+      "points": 12
+    },
+    {
+      "map": "Alaska",
+      "points": 12
+    },
+    {
+      "map": "Amor 1",
+      "points": 6
+    },
+    {
+      "map": "Amor 2",
+      "points": 6
+    },
+    {
+      "map": "Animus",
+      "points": 24
+    },
+    {
+      "map": "Aqua",
+      "points": 18
+    },
+    {
+      "map": "Atticus Compilation",
+      "points": 6
+    },
+    {
+      "map": "Awe 4",
+      "points": 18
+    },
+    {
+      "map": "Baber",
+      "points": 18
+    },
+    {
+      "map": "Barbra Streisand_remake",
+      "points": 12
+    },
+    {
+      "map": "Be Happy",
+      "points": 12
+    },
+    {
+      "map": "Big Drought",
+      "points": 12
+    },
+    {
+      "map": "Big-Jungle",
+      "points": 12
+    },
+    {
+      "map": "Blue",
+      "points": 18
+    },
+    {
+      "map": "Broken World",
+      "points": 18
+    },
+    {
+      "map": "Bush",
+      "points": 18
+    },
+    {
+      "map": "Campotle 1",
+      "points": 6
+    },
+    {
+      "map": "Campotle 2",
+      "points": 6
+    },
+    {
+      "map": "Campotle 3",
+      "points": 6
+    },
+    {
+      "map": "Campotle 4",
+      "points": 6
+    },
+    {
+      "map": "Campotle 5",
+      "points": 6
+    },
+    {
+      "map": "Castoreum",
+      "points": 12
+    },
+    {
+      "map": "City of Death",
+      "points": 24
+    },
+    {
+      "map": "Continuum",
+      "points": 18
+    },
+    {
+      "map": "Crimson",
+      "points": 24
+    },
+    {
+      "map": "DDPika_remake",
+      "points": 12
+    },
+    {
+      "map": "DarkCore 1",
+      "points": 12
+    },
+    {
+      "map": "DarkCore 2",
+      "points": 12
+    },
+    {
+      "map": "DarkCore 3",
+      "points": 12
+    },
+    {
+      "map": "DarkCore 4",
+      "points": 24
+    },
+    {
+      "map": "Dead Darkness",
+      "points": 24
+    },
+    {
+      "map": "DeadCore 1",
+      "points": 24
+    },
+    {
+      "map": "DeadCore 2",
+      "points": 24
+    },
+    {
+      "map": "DeadCore 3",
+      "points": 18
+    },
+    {
+      "map": "Delirium",
+      "points": 24
+    },
+    {
+      "map": "Destiny 1",
+      "points": 24
+    },
+    {
+      "map": "Destiny 2",
+      "points": 24
+    },
+    {
+      "map": "Destiny 3",
+      "points": 24
+    },
+    {
+      "map": "Divergence",
+      "points": 24
+    },
+    {
+      "map": "Dust",
+      "points": 18
+    },
+    {
+      "map": "EaSy_HarD 4",
+      "points": 18
+    },
+    {
+      "map": "Eagle Race Compilation",
+      "points": 12
+    },
+    {
+      "map": "Easyfail 1",
+      "points": 12
+    },
+    {
+      "map": "Eclipse_oldschool",
+      "points": 24
+    },
+    {
+      "map": "Encore",
+      "points": 12
+    },
+    {
+      "map": "Endgame",
+      "points": 18
+    },
+    {
+      "map": "Eruption",
+      "points": 12
+    },
+    {
+      "map": "Exfishion",
+      "points": 18
+    },
+    {
+      "map": "FLAP",
+      "points": 18
+    },
+    {
+      "map": "Fahrenheit",
+      "points": 24
+    },
+    {
+      "map": "Flyppi",
+      "points": 18
+    },
+    {
+      "map": "FreeDoom",
+      "points": 18
+    },
+    {
+      "map": "FreeDoom2",
+      "points": 18
+    },
+    {
+      "map": "Freeze Slow 1",
+      "points": 6
+    },
+    {
+      "map": "Freeze Slow 2",
+      "points": 6
+    },
+    {
+      "map": "Freeze Slow 3",
+      "points": 6
+    },
+    {
+      "map": "Freeze Slow 4",
+      "points": 12
+    },
+    {
+      "map": "Fresh",
+      "points": 6
+    },
+    {
+      "map": "Fucktastic",
+      "points": 12
+    },
+    {
+      "map": "Generic Hell",
+      "points": 18
+    },
+    {
+      "map": "HDP_Execrable",
+      "points": 12
+    },
+    {
+      "map": "HDP_Obstaculos",
+      "points": 6
+    },
+    {
+      "map": "HDP_Zinderencio",
+      "points": 6
+    },
+    {
+      "map": "Hardcore 1",
+      "points": 6
+    },
+    {
+      "map": "Hardcore 2",
+      "points": 6
+    },
+    {
+      "map": "Hardcore 3",
+      "points": 12
+    },
+    {
+      "map": "Hardcore 4",
+      "points": 6
+    },
+    {
+      "map": "Hardcore 5",
+      "points": 12
+    },
+    {
+      "map": "Hardcore 6",
+      "points": 24
+    },
+    {
+      "map": "Hardcore 7",
+      "points": 18
+    },
+    {
+      "map": "Hardcore 8",
+      "points": 24
+    },
+    {
+      "map": "Hardcore 9",
+      "points": 18
+    },
+    {
+      "map": "Hardstyle 1",
+      "points": 12
+    },
+    {
+      "map": "Hardstyle 2",
+      "points": 12
+    },
+    {
+      "map": "Hardstyle 3",
+      "points": 24
+    },
+    {
+      "map": "Hardstyle 4",
+      "points": 24
+    },
+    {
+      "map": "Hardtime",
+      "points": 12
+    },
+    {
+      "map": "Haunted Dungeon",
+      "points": 6
+    },
+    {
+      "map": "Hedgehogs",
+      "points": 18
+    },
+    {
+      "map": "Hell Ride",
+      "points": 12
+    },
+    {
+      "map": "HellFly",
+      "points": 6
+    },
+    {
+      "map": "Illusion",
+      "points": 12
+    },
+    {
+      "map": "Im No Superman 1",
+      "points": 12
+    },
+    {
+      "map": "Im No Superman 2",
+      "points": 12
+    },
+    {
+      "map": "Im No Superman 3",
+      "points": 18
+    },
+    {
+      "map": "Imagination",
+      "points": 12
+    },
+    {
+      "map": "Imba",
+      "points": 12
+    },
+    {
+      "map": "Impossible 1",
+      "points": 12
+    },
+    {
+      "map": "Impossible 2",
+      "points": 12
+    },
+    {
+      "map": "Impossible 3",
+      "points": 12
+    },
+    {
+      "map": "Inception Oldschool",
+      "points": 24
+    },
+    {
+      "map": "Infinity",
+      "points": 18
+    },
+    {
+      "map": "Insanity",
+      "points": 12
+    },
+    {
+      "map": "Interlude",
+      "points": 24
+    },
+    {
+      "map": "Interlude 2",
+      "points": 24
+    },
+    {
+      "map": "IronBreak",
+      "points": 12
+    },
+    {
+      "map": "Ironprison",
+      "points": 18
+    },
+    {
+      "map": "Jailbreak 1",
+      "points": 12
+    },
+    {
+      "map": "Jailbreak 2",
+      "points": 12
+    },
+    {
+      "map": "Jailbreak 3",
+      "points": 6
+    },
+    {
+      "map": "Jailbreak 4",
+      "points": 12
+    },
+    {
+      "map": "Jailbreak 5",
+      "points": 18
+    },
+    {
+      "map": "Jailbreak 6",
+      "points": 18
+    },
+    {
+      "map": "Jailbreak 7",
+      "points": 18
+    },
+    {
+      "map": "Josen",
+      "points": 6
+    },
+    {
+      "map": "Just Fly 1",
+      "points": 6
+    },
+    {
+      "map": "Just Fly 2",
+      "points": 6
+    },
+    {
+      "map": "Just Fly 3",
+      "points": 6
+    },
+    {
+      "map": "Just Hookfly 1",
+      "points": 6
+    },
+    {
+      "map": "Just Hookfly 2",
+      "points": 6
+    },
+    {
+      "map": "Killa 3",
+      "points": 12
+    },
+    {
+      "map": "Killa1",
+      "points": 12
+    },
+    {
+      "map": "Killa2",
+      "points": 6
+    },
+    {
+      "map": "Killa4",
+      "points": 12
+    },
+    {
+      "map": "Killa5",
+      "points": 12
+    },
+    {
+      "map": "Koule 1",
+      "points": 6
+    },
+    {
+      "map": "Koule 10",
+      "points": 18
+    },
+    {
+      "map": "Koule 11",
+      "points": 6
+    },
+    {
+      "map": "Koule 12",
+      "points": 12
+    },
+    {
+      "map": "Koule 13",
+      "points": 6
+    },
+    {
+      "map": "Koule 14",
+      "points": 12
+    },
+    {
+      "map": "Koule 15",
+      "points": 12
+    },
+    {
+      "map": "Koule 16",
+      "points": 6
+    },
+    {
+      "map": "Koule 17",
+      "points": 18
+    },
+    {
+      "map": "Koule 2",
+      "points": 6
+    },
+    {
+      "map": "Koule 3",
+      "points": 6
+    },
+    {
+      "map": "Koule 4",
+      "points": 6
+    },
+    {
+      "map": "Koule 5",
+      "points": 6
+    },
+    {
+      "map": "Koule 6",
+      "points": 12
+    },
+    {
+      "map": "Koule 7",
+      "points": 6
+    },
+    {
+      "map": "Koule 8",
+      "points": 6
+    },
+    {
+      "map": "Koule 9",
+      "points": 12
+    },
+    {
+      "map": "Kovcheg",
+      "points": 12
+    },
+    {
+      "map": "Last Chance",
+      "points": 18
+    },
+    {
+      "map": "LichKing",
+      "points": 30
+    },
+    {
+      "map": "Lite",
+      "points": 18
+    },
+    {
+      "map": "Lite_2",
+      "points": 12
+    },
+    {
+      "map": "LongCat",
+      "points": 6
+    },
+    {
+      "map": "Lost",
+      "points": 18
+    },
+    {
+      "map": "Lost 2",
+      "points": 18
+    },
+    {
+      "map": "Lost 3",
+      "points": 18
+    },
+    {
+      "map": "Lost_Ground",
+      "points": 24
+    },
+    {
+      "map": "Lykeion",
+      "points": 12
+    },
+    {
+      "map": "Madness 1",
+      "points": 6
+    },
+    {
+      "map": "Madness 2",
+      "points": 12
+    },
+    {
+      "map": "Madness 3",
+      "points": 12
+    },
+    {
+      "map": "Madness 4",
+      "points": 12
+    },
+    {
+      "map": "Merely forth",
+      "points": 12
+    },
+    {
+      "map": "Merely forth 2",
+      "points": 12
+    },
+    {
+      "map": "Metal hell",
+      "points": 18
+    },
+    {
+      "map": "Miper 3",
+      "points": 6
+    },
+    {
+      "map": "Miper 4",
+      "points": 6
+    },
+    {
+      "map": "Miper 5",
+      "points": 6
+    },
+    {
+      "map": "Multimap",
+      "points": 6
+    },
+    {
+      "map": "Oh-This",
+      "points": 6
+    },
+    {
+      "map": "Oh-This 2",
+      "points": 18
+    },
+    {
+      "map": "Omega1",
+      "points": 12
+    },
+    {
+      "map": "Orange 1",
+      "points": 6
+    },
+    {
+      "map": "Orange 2",
+      "points": 12
+    },
+    {
+      "map": "Orange 3",
+      "points": 12
+    },
+    {
+      "map": "Orange 4",
+      "points": 12
+    },
+    {
+      "map": "Oscura",
+      "points": 18
+    },
+    {
+      "map": "Pablik 2",
+      "points": 6
+    },
+    {
+      "map": "Pablik 3",
+      "points": 12
+    },
+    {
+      "map": "Paradise",
+      "points": 18
+    },
+    {
+      "map": "Paradise & Hell",
+      "points": 18
+    },
+    {
+      "map": "Paralytic",
+      "points": 18
+    },
+    {
+      "map": "Paranormal",
+      "points": 12
+    },
+    {
+      "map": "Piece of cake",
+      "points": 12
+    },
+    {
+      "map": "Pirateworld",
+      "points": 6
+    },
+    {
+      "map": "Poreotics",
+      "points": 12
+    },
+    {
+      "map": "Predator 1",
+      "points": 12
+    },
+    {
+      "map": "Professional",
+      "points": 18
+    },
+    {
+      "map": "Proskills",
+      "points": 12
+    },
+    {
+      "map": "Pyramid-freeze-race",
+      "points": 6
+    },
+    {
+      "map": "Qwertz",
+      "points": 18
+    },
+    {
+      "map": "Ray - 1",
+      "points": 12
+    },
+    {
+      "map": "Red Japan",
+      "points": 12
+    },
+    {
+      "map": "Redneck Rampage",
+      "points": 24
+    },
+    {
+      "map": "Reload 1",
+      "points": 12
+    },
+    {
+      "map": "Reload 2",
+      "points": 18
+    },
+    {
+      "map": "Reload 3",
+      "points": 18
+    },
+    {
+      "map": "Reload 4",
+      "points": 12
+    },
+    {
+      "map": "ResidentSS",
+      "points": 24
+    },
+    {
+      "map": "Sadway",
+      "points": 18
+    },
+    {
+      "map": "Skillz 1",
+      "points": 6
+    },
+    {
+      "map": "Skillz 2",
+      "points": 6
+    },
+    {
+      "map": "Skillz 3",
+      "points": 6
+    },
+    {
+      "map": "Skillz 4",
+      "points": 6
+    },
+    {
+      "map": "Skillz 5",
+      "points": 6
+    },
+    {
+      "map": "Skillz 6",
+      "points": 6
+    },
+    {
+      "map": "Somewhere in the Sky",
+      "points": 12
+    },
+    {
+      "map": "Space Travel",
+      "points": 18
+    },
+    {
+      "map": "Stereotype 1",
+      "points": 18
+    },
+    {
+      "map": "Stereotype 2",
+      "points": 30
+    },
+    {
+      "map": "Stereotype 3",
+      "points": 30
+    },
+    {
+      "map": "Stereotype 4",
+      "points": 30
+    },
+    {
+      "map": "Stereotype 5",
+      "points": 30
+    },
+    {
+      "map": "StoneHell-Gores",
+      "points": 6
+    },
+    {
+      "map": "StrangeNight",
+      "points": 12
+    },
+    {
+      "map": "Striped Clouds",
+      "points": 30
+    },
+    {
+      "map": "Sunrise",
+      "points": 12
+    },
+    {
+      "map": "Synergy",
+      "points": 12
+    },
+    {
+      "map": "Tee-forever-X17",
+      "points": 6
+    },
+    {
+      "map": "Teestar",
+      "points": 6
+    },
+    {
+      "map": "The Ultimate Rainbow",
+      "points": 12
+    },
+    {
+      "map": "Tibto",
+      "points": 12
+    },
+    {
+      "map": "To Light",
+      "points": 18
+    },
+    {
+      "map": "Tremor",
+      "points": 18
+    },
+    {
+      "map": "Triple Kill",
+      "points": 24
+    },
+    {
+      "map": "Troj",
+      "points": 6
+    },
+    {
+      "map": "Ultimatum 1",
+      "points": 18
+    },
+    {
+      "map": "Ultimatum 2",
+      "points": 18
+    },
+    {
+      "map": "Ultimatum 3",
+      "points": 18
+    },
+    {
+      "map": "Universe",
+      "points": 12
+    },
+    {
+      "map": "Unlimited",
+      "points": 12
+    },
+    {
+      "map": "UnrealMap",
+      "points": 6
+    },
+    {
+      "map": "Utopia 2",
+      "points": 12
+    },
+    {
+      "map": "Victory 1",
+      "points": 24
+    },
+    {
+      "map": "Victory 2",
+      "points": 24
+    },
+    {
+      "map": "Victory 3",
+      "points": 24
+    },
+    {
+      "map": "Victory 4",
+      "points": 18
+    },
+    {
+      "map": "Victory 5",
+      "points": 24
+    },
+    {
+      "map": "Wanderlust",
+      "points": 18
+    },
+    {
+      "map": "Warch Comp",
+      "points": 6
+    },
+    {
+      "map": "Warch_hard_2_rework",
+      "points": 12
+    },
+    {
+      "map": "WeichCore",
+      "points": 12
+    },
+    {
+      "map": "Who's Faster",
+      "points": 6
+    },
+    {
+      "map": "WoFs",
+      "points": 18
+    },
+    {
+      "map": "Zadrotos 1",
+      "points": 12
+    },
+    {
+      "map": "Zadrotos 2",
+      "points": 12
+    },
+    {
+      "map": "Zadrotos 3",
+      "points": 12
+    },
+    {
+      "map": "Zadrotos 4",
+      "points": 18
+    },
+    {
+      "map": "Zadrotos 5",
+      "points": 18
+    },
+    {
+      "map": "Zadrotos_final",
+      "points": 18
+    },
+    {
+      "map": "bBzZ!!",
+      "points": 12
+    },
+    {
+      "map": "dd_VeoN1",
+      "points": 6
+    },
+    {
+      "map": "ddrace_loop",
+      "points": 12
+    },
+    {
+      "map": "ddrace_shella2",
+      "points": 6
+    },
+    {
+      "map": "ddrace_shella3",
+      "points": 12
+    },
+    {
+      "map": "ddrace_shella4",
+      "points": 12
+    },
+    {
+      "map": "experiment",
+      "points": 12
+    },
+    {
+      "map": "fr_drop",
+      "points": 12
+    },
+    {
+      "map": "himmel",
+      "points": 6
+    },
+    {
+      "map": "himmel 2",
+      "points": 6
+    },
+    {
+      "map": "intime green",
+      "points": 24
+    },
+    {
+      "map": "mo_factory",
+      "points": 6
+    },
+    {
+      "map": "tough way",
+      "points": 12
+    },
+    {
+      "map": "tough way 2",
+      "points": 12
+    }
+  ],
+  "Race": [
+    {
+      "map": "Aufnahmetest_AE",
+      "points": 4
+    },
+    {
+      "map": "E02",
+      "points": 0
+    },
+    {
+      "map": "Euthanasia",
+      "points": 8
+    },
+    {
+      "map": "Grenadium",
+      "points": 4
+    },
+    {
+      "map": "Grenadium 2",
+      "points": 6
+    },
+    {
+      "map": "Knux",
+      "points": 6
+    },
+    {
+      "map": "Run_Aim",
+      "points": 6
+    },
+    {
+      "map": "Steff fastrun 5",
+      "points": 4
+    },
+    {
+      "map": "climate-crisis",
+      "points": 4
+    },
+    {
+      "map": "frustrainleave",
+      "points": 6
+    },
+    {
+      "map": "hotrun",
+      "points": 2
+    },
+    {
+      "map": "nameless_run",
+      "points": 10
+    },
+    {
+      "map": "pocramruinrun",
+      "points": 2
+    },
+    {
+      "map": "pr0-move",
+      "points": 4
+    },
+    {
+      "map": "run_2Rockets",
+      "points": 8
+    },
+    {
+      "map": "run_2rocketstwo",
+      "points": 10
+    },
+    {
+      "map": "run_4abydos",
+      "points": 2
+    },
+    {
+      "map": "run_4fikmesan",
+      "points": 4
+    },
+    {
+      "map": "run_4lollipop",
+      "points": 6
+    },
+    {
+      "map": "run_4mystery",
+      "points": 4
+    },
+    {
+      "map": "run_4popi",
+      "points": 4
+    },
+    {
+      "map": "run_4popo",
+      "points": 6
+    },
+    {
+      "map": "run_4tea",
+      "points": 2
+    },
+    {
+      "map": "run_4tzoy",
+      "points": 4
+    },
+    {
+      "map": "run_4xerhul",
+      "points": 6
+    },
+    {
+      "map": "run_4xerhul2",
+      "points": 8
+    },
+    {
+      "map": "run_Bunt",
+      "points": 2
+    },
+    {
+      "map": "run_Chaos_Aufnahmemap",
+      "points": 2
+    },
+    {
+      "map": "run_DR",
+      "points": 2
+    },
+    {
+      "map": "run_Div",
+      "points": 2
+    },
+    {
+      "map": "run_Div2",
+      "points": 2
+    },
+    {
+      "map": "run_FinalFifty",
+      "points": 6
+    },
+    {
+      "map": "run_FreezyFly",
+      "points": 4
+    },
+    {
+      "map": "run_InTheHell",
+      "points": 2
+    },
+    {
+      "map": "run_Jellyfish_Fields",
+      "points": 6
+    },
+    {
+      "map": "run_WARmoepopo",
+      "points": 2
+    },
+    {
+      "map": "run_alboni",
+      "points": 6
+    },
+    {
+      "map": "run_alkohol",
+      "points": 6
+    },
+    {
+      "map": "run_ankii",
+      "points": 0
+    },
+    {
+      "map": "run_antibuguse",
+      "points": 10
+    },
+    {
+      "map": "run_asr",
+      "points": 4
+    },
+    {
+      "map": "run_away",
+      "points": 2
+    },
+    {
+      "map": "run_birthday",
+      "points": 4
+    },
+    {
+      "map": "run_black_jack",
+      "points": 4
+    },
+    {
+      "map": "run_black_white",
+      "points": 4
+    },
+    {
+      "map": "run_blood_thirst",
+      "points": 8
+    },
+    {
+      "map": "run_blue",
+      "points": 0
+    },
+    {
+      "map": "run_brown",
+      "points": 2
+    },
+    {
+      "map": "run_bundesliga",
+      "points": 4
+    },
+    {
+      "map": "run_button",
+      "points": 2
+    },
+    {
+      "map": "run_cave_grass",
+      "points": 4
+    },
+    {
+      "map": "run_crystal",
+      "points": 4
+    },
+    {
+      "map": "run_dfc",
+      "points": 6
+    },
+    {
+      "map": "run_dragon",
+      "points": 4
+    },
+    {
+      "map": "run_drawed",
+      "points": 2
+    },
+    {
+      "map": "run_dude",
+      "points": 2
+    },
+    {
+      "map": "run_escape_the_darkness",
+      "points": 8
+    },
+    {
+      "map": "run_event",
+      "points": 2
+    },
+    {
+      "map": "run_experience_of_incredibleness",
+      "points": 4
+    },
+    {
+      "map": "run_ffs",
+      "points": 2
+    },
+    {
+      "map": "run_firestorm",
+      "points": 4
+    },
+    {
+      "map": "run_for_ghost",
+      "points": 6
+    },
+    {
+      "map": "run_for_onkelz",
+      "points": 2
+    },
+    {
+      "map": "run_forrest",
+      "points": 2
+    },
+    {
+      "map": "run_from_ice_to_grass",
+      "points": 6
+    },
+    {
+      "map": "run_frosty",
+      "points": 6
+    },
+    {
+      "map": "run_g6",
+      "points": 0
+    },
+    {
+      "map": "run_galaxy",
+      "points": 8
+    },
+    {
+      "map": "run_get50",
+      "points": 8
+    },
+    {
+      "map": "run_glowing_ice",
+      "points": 4
+    },
+    {
+      "map": "run_golden_toilet",
+      "points": 8
+    },
+    {
+      "map": "run_granit_stone",
+      "points": 4
+    },
+    {
+      "map": "run_grass_hell",
+      "points": 10
+    },
+    {
+      "map": "run_greygrey",
+      "points": 2
+    },
+    {
+      "map": "run_groove",
+      "points": 6
+    },
+    {
+      "map": "run_hard_hell",
+      "points": 8
+    },
+    {
+      "map": "run_hard_hundred",
+      "points": 8
+    },
+    {
+      "map": "run_hard_way",
+      "points": 4
+    },
+    {
+      "map": "run_harder_than_hard",
+      "points": 6
+    },
+    {
+      "map": "run_heaven_and_hell",
+      "points": 4
+    },
+    {
+      "map": "run_hot_or_not",
+      "points": 4
+    },
+    {
+      "map": "run_ice_castle",
+      "points": 4
+    },
+    {
+      "map": "run_inset_into_the_heavy_jungle",
+      "points": 8
+    },
+    {
+      "map": "run_inset_into_the_light",
+      "points": 6
+    },
+    {
+      "map": "run_irish_luck",
+      "points": 2
+    },
+    {
+      "map": "run_keksi",
+      "points": 6
+    },
+    {
+      "map": "run_lila_jungle_trouble",
+      "points": 6
+    },
+    {
+      "map": "run_linkin_park",
+      "points": 4
+    },
+    {
+      "map": "run_longWAR",
+      "points": 6
+    },
+    {
+      "map": "run_long_for_popo",
+      "points": 2
+    },
+    {
+      "map": "run_miniatur",
+      "points": 4
+    },
+    {
+      "map": "run_minimalist",
+      "points": 6
+    },
+    {
+      "map": "run_neonlight",
+      "points": 2
+    },
+    {
+      "map": "run_nightmare",
+      "points": 4
+    },
+    {
+      "map": "run_not_short",
+      "points": 6
+    },
+    {
+      "map": "run_orange",
+      "points": 0
+    },
+    {
+      "map": "run_out_jungle",
+      "points": 6
+    },
+    {
+      "map": "run_painted",
+      "points": 8
+    },
+    {
+      "map": "run_pencil",
+      "points": 4
+    },
+    {
+      "map": "run_pink.lila",
+      "points": 6
+    },
+    {
+      "map": "run_pinky",
+      "points": 4
+    },
+    {
+      "map": "run_pokemon",
+      "points": 4
+    },
+    {
+      "map": "run_radioactive",
+      "points": 6
+    },
+    {
+      "map": "run_redbull",
+      "points": 4
+    },
+    {
+      "map": "run_selected",
+      "points": 4
+    },
+    {
+      "map": "run_shadow",
+      "points": 8
+    },
+    {
+      "map": "run_shutter",
+      "points": 8
+    },
+    {
+      "map": "run_skizz_keres",
+      "points": 8
+    },
+    {
+      "map": "run_skizz_loop1200",
+      "points": 6
+    },
+    {
+      "map": "run_skizzpopo",
+      "points": 4
+    },
+    {
+      "map": "run_skizzrettex",
+      "points": 8
+    },
+    {
+      "map": "run_spring",
+      "points": 6
+    },
+    {
+      "map": "run_stoned",
+      "points": 4
+    },
+    {
+      "map": "run_sunsetcave",
+      "points": 2
+    },
+    {
+      "map": "run_tee",
+      "points": 4
+    },
+    {
+      "map": "run_the_cure",
+      "points": 2
+    },
+    {
+      "map": "run_the_rock",
+      "points": 4
+    },
+    {
+      "map": "run_three",
+      "points": 8
+    },
+    {
+      "map": "run_toxic_green",
+      "points": 4
+    },
+    {
+      "map": "run_unbelievable",
+      "points": 10
+    },
+    {
+      "map": "run_unschaffbar",
+      "points": 4
+    },
+    {
+      "map": "run_world_war_zero",
+      "points": 10
+    },
+    {
+      "map": "run_yellow",
+      "points": 2
+    },
+    {
+      "map": "run_yellow_hell",
+      "points": 6
+    },
+    {
+      "map": "yoshiloop",
+      "points": 8
+    },
+    {
+      "map": "zelda",
+      "points": 6
+    }
+  ],
+  "Solo": [
+    {
+      "map": "1Hook",
+      "points": 20
+    },
+    {
+      "map": "1of4",
+      "points": 8
+    },
+    {
+      "map": "2+2=green",
+      "points": 12
+    },
+    {
+      "map": "23shots",
+      "points": 12
+    },
+    {
+      "map": "2of4",
+      "points": 8
+    },
+    {
+      "map": "3of4",
+      "points": 8
+    },
+    {
+      "map": "4of4",
+      "points": 8
+    },
+    {
+      "map": "8 points",
+      "points": 8
+    },
+    {
+      "map": "A",
+      "points": 8
+    },
+    {
+      "map": "AIB Quest 1",
+      "points": 12
+    },
+    {
+      "map": "AIB Quest 2",
+      "points": 12
+    },
+    {
+      "map": "AIB Quest 4",
+      "points": 12
+    },
+    {
+      "map": "After the Cataclysm",
+      "points": 8
+    },
+    {
+      "map": "Agile",
+      "points": 12
+    },
+    {
+      "map": "Air Dash",
+      "points": 8
+    },
+    {
+      "map": "Airnade Ultra",
+      "points": 20
+    },
+    {
+      "map": "Allround",
+      "points": 8
+    },
+    {
+      "map": "Allround2",
+      "points": 12
+    },
+    {
+      "map": "Alpha",
+      "points": 8
+    },
+    {
+      "map": "Amethyst",
+      "points": 8
+    },
+    {
+      "map": "Anaphore",
+      "points": 4
+    },
+    {
+      "map": "Anima",
+      "points": 8
+    },
+    {
+      "map": "Anoteex",
+      "points": 12
+    },
+    {
+      "map": "Antrum",
+      "points": 12
+    },
+    {
+      "map": "Art of Movement",
+      "points": 12
+    },
+    {
+      "map": "Atmosphere",
+      "points": 12
+    },
+    {
+      "map": "Aufnahmetest",
+      "points": 12
+    },
+    {
+      "map": "Aufnahmetest 2",
+      "points": 12
+    },
+    {
+      "map": "Aufnahmetest 3",
+      "points": 12
+    },
+    {
+      "map": "Autumn Sky",
+      "points": 12
+    },
+    {
+      "map": "Autumn Sunset",
+      "points": 12
+    },
+    {
+      "map": "Awayza",
+      "points": 12
+    },
+    {
+      "map": "Birinci",
+      "points": 16
+    },
+    {
+      "map": "Bittersweet Sunset",
+      "points": 12
+    },
+    {
+      "map": "BlackBear1",
+      "points": 8
+    },
+    {
+      "map": "BlackBear2",
+      "points": 8
+    },
+    {
+      "map": "BlackBear3",
+      "points": 8
+    },
+    {
+      "map": "BlackBear4",
+      "points": 12
+    },
+    {
+      "map": "BlackBear5",
+      "points": 12
+    },
+    {
+      "map": "BlackBear6",
+      "points": 12
+    },
+    {
+      "map": "BlackBear7",
+      "points": 8
+    },
+    {
+      "map": "BlackVision",
+      "points": 8
+    },
+    {
+      "map": "Bouncy",
+      "points": 4
+    },
+    {
+      "map": "Broken brain",
+      "points": 16
+    },
+    {
+      "map": "Broken space",
+      "points": 12
+    },
+    {
+      "map": "BrokeysChallenge",
+      "points": 16
+    },
+    {
+      "map": "Brown Suger",
+      "points": 8
+    },
+    {
+      "map": "Buckle Up",
+      "points": 4
+    },
+    {
+      "map": "Bullet Master",
+      "points": 4
+    },
+    {
+      "map": "CHILLUMINATI",
+      "points": 12
+    },
+    {
+      "map": "Canyon",
+      "points": 12
+    },
+    {
+      "map": "Care for your Time",
+      "points": 4
+    },
+    {
+      "map": "Casthere",
+      "points": 12
+    },
+    {
+      "map": "Catch the Colors",
+      "points": 12
+    },
+    {
+      "map": "Cave Fly",
+      "points": 16
+    },
+    {
+      "map": "Caverun",
+      "points": 20
+    },
+    {
+      "map": "Cavity",
+      "points": 4
+    },
+    {
+      "map": "Cequals3",
+      "points": 12
+    },
+    {
+      "map": "Cheepl",
+      "points": 8
+    },
+    {
+      "map": "Chill Let's Climb",
+      "points": 8
+    },
+    {
+      "map": "Chill Let's Climb 2",
+      "points": 8
+    },
+    {
+      "map": "Chill Let's Climb 3",
+      "points": 8
+    },
+    {
+      "map": "Cloud Dreams",
+      "points": 16
+    },
+    {
+      "map": "Compera",
+      "points": 12
+    },
+    {
+      "map": "CrashTV",
+      "points": 12
+    },
+    {
+      "map": "Croissant",
+      "points": 12
+    },
+    {
+      "map": "Crooked Mind",
+      "points": 16
+    },
+    {
+      "map": "Daghestan",
+      "points": 12
+    },
+    {
+      "map": "DarkEagle",
+      "points": 12
+    },
+    {
+      "map": "DarkMove",
+      "points": 12
+    },
+    {
+      "map": "DatWay",
+      "points": 12
+    },
+    {
+      "map": "DayLight",
+      "points": 8
+    },
+    {
+      "map": "Death",
+      "points": 16
+    },
+    {
+      "map": "Death Rays",
+      "points": 8
+    },
+    {
+      "map": "Deep Blue",
+      "points": 4
+    },
+    {
+      "map": "DeepEdge",
+      "points": 12
+    },
+    {
+      "map": "Definition",
+      "points": 12
+    },
+    {
+      "map": "Delension",
+      "points": 8
+    },
+    {
+      "map": "Desert Duration",
+      "points": 8
+    },
+    {
+      "map": "Desert Mine",
+      "points": 12
+    },
+    {
+      "map": "Desert Night",
+      "points": 4
+    },
+    {
+      "map": "Disposition",
+      "points": 16
+    },
+    {
+      "map": "Dodge",
+      "points": 12
+    },
+    {
+      "map": "DonoWall",
+      "points": 8
+    },
+    {
+      "map": "Dopee",
+      "points": 12
+    },
+    {
+      "map": "Double Nade",
+      "points": 8
+    },
+    {
+      "map": "Duodecimo",
+      "points": 12
+    },
+    {
+      "map": "Dust's Leaf",
+      "points": 8
+    },
+    {
+      "map": "Dynasty",
+      "points": 12
+    },
+    {
+      "map": "ECHOR",
+      "points": 12
+    },
+    {
+      "map": "EXO",
+      "points": 12
+    },
+    {
+      "map": "Edge Jump Pro",
+      "points": 4
+    },
+    {
+      "map": "Embrace",
+      "points": 16
+    },
+    {
+      "map": "Enormous",
+      "points": 16
+    },
+    {
+      "map": "Entropy",
+      "points": 12
+    },
+    {
+      "map": "Ephemeral",
+      "points": 8
+    },
+    {
+      "map": "Equity [Easy]",
+      "points": 8
+    },
+    {
+      "map": "Equity [Hard]",
+      "points": 16
+    },
+    {
+      "map": "Escape",
+      "points": 12
+    },
+    {
+      "map": "Eternity",
+      "points": 16
+    },
+    {
+      "map": "Exalate",
+      "points": 12
+    },
+    {
+      "map": "Exanimus",
+      "points": 20
+    },
+    {
+      "map": "Exchange",
+      "points": 12
+    },
+    {
+      "map": "Extension 1.0",
+      "points": 8
+    },
+    {
+      "map": "Extension 2.0",
+      "points": 8
+    },
+    {
+      "map": "Fall into the Future",
+      "points": 12
+    },
+    {
+      "map": "Fallen Angel",
+      "points": 12
+    },
+    {
+      "map": "Fireball",
+      "points": 4
+    },
+    {
+      "map": "Flamara",
+      "points": 12
+    },
+    {
+      "map": "Flappy Bird",
+      "points": 0
+    },
+    {
+      "map": "FlipLipp10",
+      "points": 12
+    },
+    {
+      "map": "Fly Lessons",
+      "points": 8
+    },
+    {
+      "map": "Fly into the sky",
+      "points": 4
+    },
+    {
+      "map": "Fly out of hell",
+      "points": 20
+    },
+    {
+      "map": "Fly to the Legends",
+      "points": 20
+    },
+    {
+      "map": "Fly to the Legends 2",
+      "points": 16
+    },
+    {
+      "map": "ForeverAlone",
+      "points": 8
+    },
+    {
+      "map": "Freezejump",
+      "points": 12
+    },
+    {
+      "map": "GHB_DDrace",
+      "points": 8
+    },
+    {
+      "map": "GLL",
+      "points": 12
+    },
+    {
+      "map": "Gedan",
+      "points": 8
+    },
+    {
+      "map": "Gedan2",
+      "points": 8
+    },
+    {
+      "map": "Gehenna",
+      "points": 16
+    },
+    {
+      "map": "GetSpeed",
+      "points": 8
+    },
+    {
+      "map": "GetSpeed 3",
+      "points": 16
+    },
+    {
+      "map": "GetSpeed 4",
+      "points": 20
+    },
+    {
+      "map": "GetSpeed2",
+      "points": 12
+    },
+    {
+      "map": "Gigabyte",
+      "points": 12
+    },
+    {
+      "map": "Golden_Evening",
+      "points": 12
+    },
+    {
+      "map": "Gorou",
+      "points": 8
+    },
+    {
+      "map": "Grand Shotgun",
+      "points": 12
+    },
+    {
+      "map": "Grassland",
+      "points": 4
+    },
+    {
+      "map": "Grid",
+      "points": 12
+    },
+    {
+      "map": "Grind",
+      "points": 16
+    },
+    {
+      "map": "HDP_Gajos9",
+      "points": 12
+    },
+    {
+      "map": "HDP_OnOff",
+      "points": 4
+    },
+    {
+      "map": "HDP_Run2",
+      "points": 8
+    },
+    {
+      "map": "HDP_run_gay25",
+      "points": 12
+    },
+    {
+      "map": "Hardcore 2 Solo",
+      "points": 4
+    },
+    {
+      "map": "Heaven-time",
+      "points": 4
+    },
+    {
+      "map": "Hell's Castle",
+      "points": 12
+    },
+    {
+      "map": "Hell-time",
+      "points": 8
+    },
+    {
+      "map": "Heraconx",
+      "points": 12
+    },
+    {
+      "map": "Hermit",
+      "points": 12
+    },
+    {
+      "map": "HighJump",
+      "points": 12
+    },
+    {
+      "map": "Hitode",
+      "points": 16
+    },
+    {
+      "map": "Hollywood Undead",
+      "points": 8
+    },
+    {
+      "map": "Honkstar",
+      "points": 16
+    },
+    {
+      "map": "Honkstar 2",
+      "points": 16
+    },
+    {
+      "map": "Honkstar 3",
+      "points": 16
+    },
+    {
+      "map": "Hook It",
+      "points": 4
+    },
+    {
+      "map": "Hopeless",
+      "points": 12
+    },
+    {
+      "map": "Hopeless II",
+      "points": 8
+    },
+    {
+      "map": "HyperEdge",
+      "points": 16
+    },
+    {
+      "map": "I will be back",
+      "points": 12
+    },
+    {
+      "map": "IMA NINJA",
+      "points": 12
+    },
+    {
+      "map": "Ignis",
+      "points": 16
+    },
+    {
+      "map": "Ignite The Skies",
+      "points": 8
+    },
+    {
+      "map": "Impetuous",
+      "points": 4
+    },
+    {
+      "map": "Incommodious",
+      "points": 12
+    },
+    {
+      "map": "Increase Your Speed",
+      "points": 8
+    },
+    {
+      "map": "Indami",
+      "points": 12
+    },
+    {
+      "map": "Iron Island",
+      "points": 8
+    },
+    {
+      "map": "It's Time",
+      "points": 12
+    },
+    {
+      "map": "It'sYourDeath",
+      "points": 20
+    },
+    {
+      "map": "Jajpack",
+      "points": 4
+    },
+    {
+      "map": "Jaomp",
+      "points": 8
+    },
+    {
+      "map": "Jomp",
+      "points": 8
+    },
+    {
+      "map": "Joyride",
+      "points": 4
+    },
+    {
+      "map": "Joyride 2",
+      "points": 8
+    },
+    {
+      "map": "Jump Shooter",
+      "points": 8
+    },
+    {
+      "map": "Jumper",
+      "points": 4
+    },
+    {
+      "map": "Jungle Run",
+      "points": 8
+    },
+    {
+      "map": "Jungle Rush",
+      "points": 8
+    },
+    {
+      "map": "JungleBee",
+      "points": 12
+    },
+    {
+      "map": "Jungler",
+      "points": 8
+    },
+    {
+      "map": "Just_Shotgun",
+      "points": 16
+    },
+    {
+      "map": "KeepOut",
+      "points": 16
+    },
+    {
+      "map": "Kevin",
+      "points": 4
+    },
+    {
+      "map": "Killstreak 1",
+      "points": 8
+    },
+    {
+      "map": "Killstreak 2",
+      "points": 12
+    },
+    {
+      "map": "Kobra 2 Solo",
+      "points": 8
+    },
+    {
+      "map": "Kobra 3 Solo",
+      "points": 8
+    },
+    {
+      "map": "Kobra 4 Solo",
+      "points": 8
+    },
+    {
+      "map": "Kobra Solo",
+      "points": 8
+    },
+    {
+      "map": "Lamb",
+      "points": 16
+    },
+    {
+      "map": "LaserTag",
+      "points": 12
+    },
+    {
+      "map": "Last Jump",
+      "points": 12
+    },
+    {
+      "map": "Late Evening",
+      "points": 8
+    },
+    {
+      "map": "Lawliet",
+      "points": 12
+    },
+    {
+      "map": "Lawrence",
+      "points": 16
+    },
+    {
+      "map": "Leftovers 1",
+      "points": 8
+    },
+    {
+      "map": "Let's Swing",
+      "points": 12
+    },
+    {
+      "map": "Lets Climb",
+      "points": 8
+    },
+    {
+      "map": "Lifture",
+      "points": 16
+    },
+    {
+      "map": "LiveMovement",
+      "points": 8
+    },
+    {
+      "map": "Lonely Swim 3",
+      "points": 8
+    },
+    {
+      "map": "Lonely Swim 4",
+      "points": 4
+    },
+    {
+      "map": "Lonely Swim 9.0",
+      "points": 8
+    },
+    {
+      "map": "Lonely Swim 9.1",
+      "points": 8
+    },
+    {
+      "map": "Lonely Swim 9.2",
+      "points": 8
+    },
+    {
+      "map": "LoopRay",
+      "points": 8
+    },
+    {
+      "map": "Loopie",
+      "points": 8
+    },
+    {
+      "map": "Lost In Forest",
+      "points": 16
+    },
+    {
+      "map": "Lucid Dream",
+      "points": 4
+    },
+    {
+      "map": "Luna",
+      "points": 20
+    },
+    {
+      "map": "Masquerade",
+      "points": 16
+    },
+    {
+      "map": "Maximum speed",
+      "points": 12
+    },
+    {
+      "map": "Memento mori",
+      "points": 20
+    },
+    {
+      "map": "Memoria",
+      "points": 20
+    },
+    {
+      "map": "Microlity",
+      "points": 16
+    },
+    {
+      "map": "Mini Zero",
+      "points": 4
+    },
+    {
+      "map": "Mini Zero II",
+      "points": 4
+    },
+    {
+      "map": "Miracle",
+      "points": 12
+    },
+    {
+      "map": "Mirror",
+      "points": 4
+    },
+    {
+      "map": "MojoJump",
+      "points": 8
+    },
+    {
+      "map": "Monkey Sky",
+      "points": 8
+    },
+    {
+      "map": "MorningStar",
+      "points": 8
+    },
+    {
+      "map": "Mossolo",
+      "points": 4
+    },
+    {
+      "map": "Motus",
+      "points": 12
+    },
+    {
+      "map": "Movement I",
+      "points": 16
+    },
+    {
+      "map": "Moventer",
+      "points": 4
+    },
+    {
+      "map": "Mud",
+      "points": 4
+    },
+    {
+      "map": "Nettex",
+      "points": 12
+    },
+    {
+      "map": "Network",
+      "points": 16
+    },
+    {
+      "map": "Night of Spikes",
+      "points": 8
+    },
+    {
+      "map": "No_Stuck",
+      "points": 4
+    },
+    {
+      "map": "Noh",
+      "points": 16
+    },
+    {
+      "map": "Noobfilter",
+      "points": 8
+    },
+    {
+      "map": "Nouisification",
+      "points": 8
+    },
+    {
+      "map": "Nyan Cat",
+      "points": 4
+    },
+    {
+      "map": "Nytro",
+      "points": 4
+    },
+    {
+      "map": "Old Style",
+      "points": 8
+    },
+    {
+      "map": "OldschoolAdventure",
+      "points": 4
+    },
+    {
+      "map": "One Block",
+      "points": 8
+    },
+    {
+      "map": "One way freeze",
+      "points": 12
+    },
+    {
+      "map": "Outside",
+      "points": 12
+    },
+    {
+      "map": "Partenack",
+      "points": 16
+    },
+    {
+      "map": "Penalty",
+      "points": 8
+    },
+    {
+      "map": "Pendulum",
+      "points": 8
+    },
+    {
+      "map": "PetJack",
+      "points": 12
+    },
+    {
+      "map": "PetJack 2",
+      "points": 12
+    },
+    {
+      "map": "Pharoah",
+      "points": 16
+    },
+    {
+      "map": "Piston",
+      "points": 8
+    },
+    {
+      "map": "Plocky",
+      "points": 8
+    },
+    {
+      "map": "Pogo",
+      "points": 12
+    },
+    {
+      "map": "Prison 1",
+      "points": 4
+    },
+    {
+      "map": "Propagate",
+      "points": 8
+    },
+    {
+      "map": "Provence",
+      "points": 8
+    },
+    {
+      "map": "Purple Peaks",
+      "points": 8
+    },
+    {
+      "map": "Purple Peaks 2",
+      "points": 12
+    },
+    {
+      "map": "Push it",
+      "points": 8
+    },
+    {
+      "map": "Push it 2",
+      "points": 12
+    },
+    {
+      "map": "Push it 3",
+      "points": 8
+    },
+    {
+      "map": "Push it 4",
+      "points": 8
+    },
+    {
+      "map": "Putt Putt",
+      "points": 4
+    },
+    {
+      "map": "Puzzle Box",
+      "points": 8
+    },
+    {
+      "map": "Quick",
+      "points": 8
+    },
+    {
+      "map": "ROCKET-BELT",
+      "points": 12
+    },
+    {
+      "map": "Race_Sanktoras",
+      "points": 4
+    },
+    {
+      "map": "Raid",
+      "points": 4
+    },
+    {
+      "map": "Rapid",
+      "points": 12
+    },
+    {
+      "map": "Redline Katana",
+      "points": 4
+    },
+    {
+      "map": "Redline Nade",
+      "points": 4
+    },
+    {
+      "map": "Replay",
+      "points": 4
+    },
+    {
+      "map": "RockClimb",
+      "points": 8
+    },
+    {
+      "map": "Rocket Challenge",
+      "points": 12
+    },
+    {
+      "map": "Rocket Jump",
+      "points": 8
+    },
+    {
+      "map": "Rocket Player",
+      "points": 8
+    },
+    {
+      "map": "RocketIsKey",
+      "points": 12
+    },
+    {
+      "map": "Rollercoaster",
+      "points": 4
+    },
+    {
+      "map": "Rope swing",
+      "points": 8
+    },
+    {
+      "map": "Rush Clouds",
+      "points": 16
+    },
+    {
+      "map": "Rush Clouds 2",
+      "points": 16
+    },
+    {
+      "map": "SL1",
+      "points": 12
+    },
+    {
+      "map": "Safe Place",
+      "points": 16
+    },
+    {
+      "map": "Schwung",
+      "points": 4
+    },
+    {
+      "map": "Sg",
+      "points": 8
+    },
+    {
+      "map": "Shooting Range",
+      "points": 4
+    },
+    {
+      "map": "Short And Precise 1",
+      "points": 8
+    },
+    {
+      "map": "Short And Precise 2",
+      "points": 8
+    },
+    {
+      "map": "Short And Precise 3",
+      "points": 8
+    },
+    {
+      "map": "Short And Precise 4",
+      "points": 8
+    },
+    {
+      "map": "Short And Precise 5",
+      "points": 8
+    },
+    {
+      "map": "Short And Precise 6",
+      "points": 8
+    },
+    {
+      "map": "Short And Precise 7",
+      "points": 12
+    },
+    {
+      "map": "Short Con",
+      "points": 8
+    },
+    {
+      "map": "Short Sky",
+      "points": 8
+    },
+    {
+      "map": "Shortgun",
+      "points": 16
+    },
+    {
+      "map": "ShotFF",
+      "points": 8
+    },
+    {
+      "map": "Shotgoon",
+      "points": 8
+    },
+    {
+      "map": "Shotsky",
+      "points": 12
+    },
+    {
+      "map": "Single Nade",
+      "points": 8
+    },
+    {
+      "map": "Skepsis",
+      "points": 12
+    },
+    {
+      "map": "SkipIt",
+      "points": 12
+    },
+    {
+      "map": "SkipIt2",
+      "points": 8
+    },
+    {
+      "map": "Sky High",
+      "points": 12
+    },
+    {
+      "map": "Sky Movement",
+      "points": 16
+    },
+    {
+      "map": "SkyCave",
+      "points": 8
+    },
+    {
+      "map": "Slak",
+      "points": 16
+    },
+    {
+      "map": "Slide",
+      "points": 8
+    },
+    {
+      "map": "Slide 2",
+      "points": 8
+    },
+    {
+      "map": "Slow Down",
+      "points": 8
+    },
+    {
+      "map": "SoManyStars",
+      "points": 8
+    },
+    {
+      "map": "Solo Future",
+      "points": 12
+    },
+    {
+      "map": "Solo Power",
+      "points": 8
+    },
+    {
+      "map": "Solo_Mietzcore",
+      "points": 16
+    },
+    {
+      "map": "SonQuery",
+      "points": 12
+    },
+    {
+      "map": "SorGores 1",
+      "points": 4
+    },
+    {
+      "map": "Space Climb",
+      "points": 16
+    },
+    {
+      "map": "SpaceIsKey",
+      "points": 4
+    },
+    {
+      "map": "Spaceman",
+      "points": 12
+    },
+    {
+      "map": "Spallok",
+      "points": 4
+    },
+    {
+      "map": "Sparadrap",
+      "points": 8
+    },
+    {
+      "map": "SpeedCore",
+      "points": 12
+    },
+    {
+      "map": "SpeedRun",
+      "points": 16
+    },
+    {
+      "map": "Speedster",
+      "points": 8
+    },
+    {
+      "map": "Spiders",
+      "points": 12
+    },
+    {
+      "map": "Spike It!",
+      "points": 12
+    },
+    {
+      "map": "StereoLove",
+      "points": 4
+    },
+    {
+      "map": "Stop Over 1.0",
+      "points": 8
+    },
+    {
+      "map": "Stop Over 2.0",
+      "points": 12
+    },
+    {
+      "map": "Stop Over 3.0",
+      "points": 8
+    },
+    {
+      "map": "Stop Over 4.0",
+      "points": 8
+    },
+    {
+      "map": "Stop Over 5.0",
+      "points": 12
+    },
+    {
+      "map": "Summer Breeze",
+      "points": 12
+    },
+    {
+      "map": "Sunburst",
+      "points": 16
+    },
+    {
+      "map": "Sunburst2",
+      "points": 16
+    },
+    {
+      "map": "Sunny Night",
+      "points": 12
+    },
+    {
+      "map": "Swingaroo",
+      "points": 12
+    },
+    {
+      "map": "T-Sport",
+      "points": 4
+    },
+    {
+      "map": "TOPOS",
+      "points": 4
+    },
+    {
+      "map": "Tee Legends 1",
+      "points": 8
+    },
+    {
+      "map": "Tee Legends 2",
+      "points": 8
+    },
+    {
+      "map": "Tee Legends 3",
+      "points": 8
+    },
+    {
+      "map": "Telephone",
+      "points": 12
+    },
+    {
+      "map": "Telephone 2",
+      "points": 8
+    },
+    {
+      "map": "Telephone 3",
+      "points": 16
+    },
+    {
+      "map": "The Dungeon",
+      "points": 8
+    },
+    {
+      "map": "The Space Station",
+      "points": 4
+    },
+    {
+      "map": "Theory Of Fail",
+      "points": 8
+    },
+    {
+      "map": "Thomas",
+      "points": 12
+    },
+    {
+      "map": "Timebreaker",
+      "points": 8
+    },
+    {
+      "map": "Trackmania",
+      "points": 4
+    },
+    {
+      "map": "Triplecan",
+      "points": 16
+    },
+    {
+      "map": "Triplecan 2",
+      "points": 20
+    },
+    {
+      "map": "UDLR",
+      "points": 8
+    },
+    {
+      "map": "Uniswim",
+      "points": 8
+    },
+    {
+      "map": "Universum 16",
+      "points": 12
+    },
+    {
+      "map": "UpNDown",
+      "points": 8
+    },
+    {
+      "map": "UpNDown2",
+      "points": 12
+    },
+    {
+      "map": "UpNDown3",
+      "points": 12
+    },
+    {
+      "map": "Vagrant",
+      "points": 16
+    },
+    {
+      "map": "Van Gogh",
+      "points": 8
+    },
+    {
+      "map": "Verification 2",
+      "points": 8
+    },
+    {
+      "map": "Verification 2.1",
+      "points": 8
+    },
+    {
+      "map": "Verification 2.2",
+      "points": 8
+    },
+    {
+      "map": "Verification 3.0",
+      "points": 8
+    },
+    {
+      "map": "Verification 3.1",
+      "points": 8
+    },
+    {
+      "map": "Verification 3.2",
+      "points": 8
+    },
+    {
+      "map": "Verification 3.3",
+      "points": 8
+    },
+    {
+      "map": "Verification 3.4",
+      "points": 12
+    },
+    {
+      "map": "Verification 3.5",
+      "points": 8
+    },
+    {
+      "map": "Verification 3.6",
+      "points": 16
+    },
+    {
+      "map": "Verification 3.7",
+      "points": 12
+    },
+    {
+      "map": "Verification 3.8",
+      "points": 12
+    },
+    {
+      "map": "Verification 3.9",
+      "points": 12
+    },
+    {
+      "map": "Verification 6",
+      "points": 8
+    },
+    {
+      "map": "Verification 6.1",
+      "points": 8
+    },
+    {
+      "map": "Verification 6.2",
+      "points": 12
+    },
+    {
+      "map": "Verification 7.0",
+      "points": 8
+    },
+    {
+      "map": "Verification 7.1",
+      "points": 12
+    },
+    {
+      "map": "Verification 7.2",
+      "points": 12
+    },
+    {
+      "map": "Verification 9.0",
+      "points": 16
+    },
+    {
+      "map": "Verification 9.1",
+      "points": 16
+    },
+    {
+      "map": "Vesper",
+      "points": 8
+    },
+    {
+      "map": "VoidOfSpace",
+      "points": 8
+    },
+    {
+      "map": "Volt",
+      "points": 4
+    },
+    {
+      "map": "WALL-E T",
+      "points": 12
+    },
+    {
+      "map": "WSMS",
+      "points": 8
+    },
+    {
+      "map": "WallJump",
+      "points": 8
+    },
+    {
+      "map": "Weapon Finals",
+      "points": 20
+    },
+    {
+      "map": "Weapon Finals II",
+      "points": 20
+    },
+    {
+      "map": "Weird Cave",
+      "points": 12
+    },
+    {
+      "map": "Where am I",
+      "points": 12
+    },
+    {
+      "map": "Where am I 2",
+      "points": 12
+    },
+    {
+      "map": "Whitemoon",
+      "points": 8
+    },
+    {
+      "map": "Withered Rose",
+      "points": 12
+    },
+    {
+      "map": "Wormhole",
+      "points": 8
+    },
+    {
+      "map": "Zap",
+      "points": 8
+    },
+    {
+      "map": "acq",
+      "points": 8
+    },
+    {
+      "map": "airtemple",
+      "points": 12
+    },
+    {
+      "map": "back and forth",
+      "points": 12
+    },
+    {
+      "map": "combo",
+      "points": 12
+    },
+    {
+      "map": "combo II",
+      "points": 12
+    },
+    {
+      "map": "ctf5_solo",
+      "points": 4
+    },
+    {
+      "map": "deadrun",
+      "points": 8
+    },
+    {
+      "map": "deathpack",
+      "points": 8
+    },
+    {
+      "map": "entanglement",
+      "points": 16
+    },
+    {
+      "map": "ghbdtn",
+      "points": 16
+    },
+    {
+      "map": "goup",
+      "points": 4
+    },
+    {
+      "map": "kipling",
+      "points": 12
+    },
+    {
+      "map": "mazepack",
+      "points": 4
+    },
+    {
+      "map": "mood",
+      "points": 4
+    },
+    {
+      "map": "navii",
+      "points": 8
+    },
+    {
+      "map": "ninjastic",
+      "points": 8
+    },
+    {
+      "map": "nullptr.sg",
+      "points": 12
+    },
+    {
+      "map": "pollito",
+      "points": 12
+    },
+    {
+      "map": "reflects",
+      "points": 16
+    },
+    {
+      "map": "run_as_a_pro",
+      "points": 20
+    },
+    {
+      "map": "run_birming",
+      "points": 20
+    },
+    {
+      "map": "run_guy_25",
+      "points": 8
+    },
+    {
+      "map": "selfdragger",
+      "points": 8
+    },
+    {
+      "map": "solo_castle",
+      "points": 8
+    },
+    {
+      "map": "spy",
+      "points": 8
+    },
+    {
+      "map": "taser",
+      "points": 4
+    },
+    {
+      "map": "tlqkf",
+      "points": 12
+    },
+    {
+      "map": "tlqkf 2",
+      "points": 16
+    },
+    {
+      "map": "turboSeks",
+      "points": 8
+    },
+    {
+      "map": "willow",
+      "points": 8
+    }
+  ]
+}

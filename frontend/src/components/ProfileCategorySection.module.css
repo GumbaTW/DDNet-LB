@@ -1,0 +1,182 @@
+.section {
+  margin-bottom: 1rem;
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  overflow: hidden;
+  background: var(--card-bg);
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  width: 100%;
+  padding: 0.875rem 1rem;
+  font: inherit;
+  font-weight: 600;
+  color: var(--text);
+  background: var(--header-bg);
+  border: none;
+  cursor: pointer;
+  text-align: left;
+  transition: background 0.15s ease;
+}
+
+.header:hover {
+  background: var(--row-hover);
+}
+
+.categoryName {
+  flex: 0 0 auto;
+}
+
+.progressLabel {
+  flex: 1;
+  font-size: 0.9rem;
+  font-weight: 500;
+  color: var(--muted);
+}
+
+.chevron {
+  font-size: 0.7rem;
+  color: var(--muted);
+}
+
+.progressBarWrap {
+  height: 6px;
+  background: var(--border);
+  overflow: hidden;
+}
+
+.progressBar {
+  height: 100%;
+  background: var(--accent);
+  transition: width 0.2s ease;
+}
+
+.tableWrap {
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+}
+
+.table {
+  width: 100%;
+  min-width: 720px;
+  border-collapse: collapse;
+  font-size: 0.9rem;
+}
+
+.th {
+  padding: 0.65rem 1rem;
+  text-align: left;
+  font-size: 0.72rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--muted);
+  background: var(--header-bg);
+  border-bottom: 1px solid var(--border);
+  white-space: nowrap;
+}
+
+.th .sortBtn {
+  font: inherit;
+  font-weight: 600;
+  color: inherit;
+  background: none;
+  border: none;
+  padding: 0;
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  transition: color 0.15s ease;
+}
+
+.th .sortBtn:hover {
+  color: var(--accent);
+}
+
+.sortIcon {
+  margin-left: 0.15rem;
+  color: var(--accent);
+}
+
+.td {
+  padding: 0.65rem 1rem;
+  border-bottom: 1px solid var(--border);
+  color: var(--text);
+}
+
+.tdNum {
+  padding: 0.65rem 1rem;
+  border-bottom: 1px solid var(--border);
+  font-variant-numeric: tabular-nums;
+  color: var(--text);
+}
+
+.row:hover {
+  background: var(--row-hover);
+}
+
+.row:last-child .td,
+.row:last-child .tdNum {
+  border-bottom: none;
+}
+
+.unfinishedBlock {
+  margin-top: 1.5rem;
+  padding-top: 1rem;
+  border-top: 1px solid var(--border);
+}
+
+.unfinishedHeader {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  width: 100%;
+  padding: 0.65rem 1rem;
+  font: inherit;
+  font-weight: 600;
+  color: var(--muted);
+  background: transparent;
+  border: none;
+  cursor: pointer;
+  text-align: left;
+  transition: background 0.15s ease;
+}
+
+.unfinishedHeader:hover {
+  background: var(--row-hover);
+}
+
+.unfinishedTitle {
+  flex: 0 0 auto;
+  font-size: 0.72rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.unfinishedCount {
+  flex: 1;
+  font-size: 0.85rem;
+  font-weight: 500;
+  color: var(--muted);
+}
+
+.unfinishedHeader .chevron {
+  font-size: 0.7rem;
+}
+
+.rowUnfinished {
+  color: var(--muted);
+}
+
+.rowUnfinished:hover {
+  background: rgba(100, 116, 139, 0.08);
+}
+
+.tableUnfinished .td,
+.tableUnfinished .tdNum {
+  opacity: 0.85;
+}
