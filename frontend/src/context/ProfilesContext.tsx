@@ -1,6 +1,8 @@
 import { createContext, useCallback, useContext, useMemo, useRef, useState } from 'react'
-import type { PlayerProfile, MapsByCategory } from '../types/profile'
+import type { PlayerProfile, ProfileMapRow, MapsByCategory } from '../types/profile'
 import { playerNameToProfilePath } from '../lib/profileUrl'
+
+const DDNET_PLAYER_API = 'https://ddnet.org/players/'
 
 interface ProfilesContextValue {
   profiles: Record<string, PlayerProfile>
@@ -15,11 +17,68 @@ const ProfilesContext = createContext<ProfilesContextValue | null>(null)
 
 const BASE = import.meta.env.BASE_URL
 
+/** DDNet API map entry (subset we use) */
+interface DDNetMapEntry {
+  points?: number
+  finishes?: number
+  time?: number
+  first_finish?: number
+  team_rank?: number | null
+  rank?: number | null
+}
+
+/** DDNet API types[category] (subset we use) */
+interface DDNetTypeEntry {
+  maps?: Record<string, DDNetMapEntry>
+}
+
+/** DDNet API response (subset we use) */
+interface DDNetPlayerResponse {
+  player?: string
+  types?: Record<string, DDNetTypeEntry>
+}
+
 function parseProfileJson(text: string): PlayerProfile {
   const data = JSON.parse(text) as { schemaVersion?: number; profile?: unknown }
   const profile = data?.profile
   if (!profile || typeof profile !== 'object') return {}
   return profile as PlayerProfile
+}
+
+/** Transform DDNet API response into our PlayerProfile shape */
+function transformDDNetProfile(data: DDNetPlayerResponse): PlayerProfile {
+  const types = data?.types
+  if (!types || typeof types !== 'object') return {}
+
+  const profile: PlayerProfile = {}
+  for (const [category, typeEntry] of Object.entries(types)) {
+    const mapsObj = typeEntry?.maps
+    if (!mapsObj || typeof mapsObj !== 'object') continue
+
+    const rows: ProfileMapRow[] = []
+    for (const [mapName, entry] of Object.entries(mapsObj)) {
+      const finishes = Number(entry?.finishes ?? 0)
+      if (finishes === 0) continue
+      const firstFinish = entry?.first_finish != null
+        ? new Date(entry.first_finish * 1000).toISOString()
+        : null
+      rows.push({
+        map: mapName,
+        points: Number(entry?.points ?? 0),
+        rankTime: entry?.time != null ? Number(entry.time) : null,
+        teamRankTime: null,
+        finishes,
+        firstFinish,
+      })
+    }
+    const totalMaps = Object.keys(mapsObj).length
+    profile[category] = {
+      totalMaps,
+      finished: rows.length,
+      maps: rows,
+    }
+  }
+  return profile
 }
 
 export function ProfilesProvider({ children }: { children: React.ReactNode }) {
@@ -53,9 +112,20 @@ export function ProfilesProvider({ children }: { children: React.ReactNode }) {
       await loadMapsByCategory()
       const path = playerNameToProfilePath(name)
       const res = await fetch(`${BASE}profiles/${path}.json`)
-      if (!res.ok) throw new Error(`HTTP ${res.status}`)
-      const text = await res.text()
-      const profile = parseProfileJson(text)
+      let profile: PlayerProfile
+      if (res.ok) {
+        const text = await res.text()
+        profile = parseProfileJson(text)
+      } else {
+        const ddnetRes = await fetch(
+          `${DDNET_PLAYER_API}?json2=${encodeURIComponent(name)}`,
+          { mode: 'cors' }
+        )
+        if (!ddnetRes.ok) throw new Error(`Profile not found (${res.status})`)
+        const ddnetData = (await ddnetRes.json()) as DDNetPlayerResponse
+        profile = transformDDNetProfile(ddnetData)
+        if (Object.keys(profile).length === 0) throw new Error('No map data from DDNet')
+      }
       loadedRef.current.add(name)
       setProfiles((prev) => ({ ...prev, [name]: profile }))
     } catch (e) {
