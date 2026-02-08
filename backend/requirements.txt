@@ -1,0 +1,2 @@
+# No extra deps: stdlib sqlite3 and json only.
+# If you add HTTP fetch for the .sqlite, add: requests

@@ -1,0 +1,36 @@
+# Dependencies
+node_modules/
+frontend/node_modules/
+
+# Build output
+frontend/dist/
+*.local
+
+# Backend data (SQLite stays local – do not commit)
+backend/data/*.sqlite
+backend/data/*.db
+# frontend/public/leaderboard.json is committed so the deployed site has real data
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+.venv/
+env/
+.env/
+
+# IDE & OS
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Logs & misc
+*.log
+.env.local
+.env.*.local

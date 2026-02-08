@@ -1,0 +1,89 @@
+.wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-bottom: 1.25rem;
+  justify-content: center;
+}
+
+.pill {
+  font-family: 'Outfit', system-ui, sans-serif;
+  font-size: 0.85rem;
+  font-weight: 600;
+  padding: 0.5rem 1rem;
+  border-radius: 999px;
+  border: 1px solid var(--border);
+  background: var(--card-bg);
+  color: var(--muted);
+  cursor: pointer;
+  transition: background 0.15s ease, color 0.15s ease, border-color 0.15s ease;
+}
+
+.pill:hover {
+  color: var(--text);
+  border-color: rgba(148, 163, 184, 0.25);
+  background: var(--header-bg);
+}
+
+.pillActive {
+  background: var(--region-bg);
+  color: var(--accent);
+  border-color: var(--accent-dim);
+}
+
+.pillActive:hover {
+  color: var(--accent);
+  background: var(--region-bg);
+  border-color: var(--accent-dim);
+}
+
+.dropdownWrap {
+  position: relative;
+}
+
+.pillDropdown {
+  min-width: 4.5rem;
+}
+
+.dropdownBackdrop {
+  position: fixed;
+  inset: 0;
+  z-index: 10;
+}
+
+.dropdownList {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  margin: 0.25rem 0 0;
+  padding: 0.25rem 0;
+  list-style: none;
+  background: var(--card-bg);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  min-width: 8rem;
+  max-height: 16rem;
+  overflow-y: auto;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.3);
+  z-index: 11;
+}
+
+.dropdownItem {
+  display: block;
+  width: 100%;
+  font: inherit;
+  font-size: 0.85rem;
+  font-weight: 600;
+  padding: 0.5rem 1rem;
+  border: none;
+  background: none;
+  color: var(--muted);
+  cursor: pointer;
+  text-align: left;
+  transition: background 0.15s ease, color 0.15s ease;
+}
+
+.dropdownItem:hover {
+  background: var(--row-hover);
+  color: var(--text);
+}
