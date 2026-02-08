@@ -9,8 +9,15 @@
   box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.4);
 }
 
+/* Horizontal scroll on small screens; Rank + Name stay sticky */
+.scrollWrap {
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+}
+
 .table {
   width: 100%;
+  min-width: 600px;
   border-collapse: collapse;
   font-family: 'Outfit', system-ui, sans-serif;
 }
@@ -28,6 +35,46 @@
   color: var(--muted);
   background: var(--header-bg);
   border-bottom: 1px solid var(--border);
+}
+
+/* Sticky Rank + Name on mobile so they stay visible when scrolling */
+@media (max-width: 768px) {
+  .thRank,
+  .tdRank {
+    position: sticky;
+    left: 0;
+    z-index: 2;
+    background: var(--header-bg);
+    box-shadow: 4px 0 8px -2px rgba(0, 0, 0, 0.15);
+  }
+  .tdRank {
+    background: var(--card-bg);
+  }
+  .row:hover .tdRank {
+    background: var(--row-hover);
+  }
+  .thName,
+  .tdName {
+    position: sticky;
+    left: 4.5rem; /* after Rank column */
+    z-index: 2;
+    background: var(--header-bg);
+    box-shadow: 4px 0 8px -2px rgba(0, 0, 0, 0.15);
+    min-width: 6rem;
+  }
+  .tdName {
+    background: var(--card-bg);
+  }
+  .row:hover .tdName {
+    background: var(--row-hover);
+  }
+  .thRank { padding: 0.75rem 0.75rem 0.75rem 1rem; }
+  .thName { padding: 0.75rem 1rem; }
+  .thPoints,
+  .thRegion { padding: 0.75rem 1rem; }
+  .row td { padding: 0.75rem 1rem; font-size: 0.9rem; }
+  .tdRank { padding: 0.75rem 0.75rem 0.75rem 1rem; }
+  .tdName { padding: 0.75rem 1rem; }
 }
 
 .thPoints,

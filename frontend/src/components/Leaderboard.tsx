@@ -26,7 +26,8 @@ function RankBadge({ rank }: { rank: number }) {
 export function Leaderboard({ entries, sortKey, onSortKeyChange }: LeaderboardProps) {
   return (
     <div className={styles.wrapper}>
-      <table className={styles.table}>
+      <div className={styles.scrollWrap} role="region" aria-label="Leaderboard table">
+        <table className={styles.table}>
         <thead>
           <tr>
             <th className={styles.thRank}>Rank</th>
@@ -68,6 +69,7 @@ export function Leaderboard({ entries, sortKey, onSortKeyChange }: LeaderboardPr
           ))}
         </tbody>
       </table>
+      </div>
     </div>
   )
 }
